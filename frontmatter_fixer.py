@@ -17,7 +17,7 @@ for md_file in CONTENT_ROOT.rglob("*.md"):
         continue
 
     # Only act if FIRST BYTE is literal hyphen "-"
-    if raw[:1] != b"-":
+    if raw.strip()[:1] != b"-":
         continue
 
     text = raw.decode("utf-8", errors="replace")

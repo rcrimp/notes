@@ -1,3 +1,7 @@
+---
+title: "Finding Your Rhythm"
+---
+
 
 - Comedy is all rhythm
 - any performance has rhythm 
