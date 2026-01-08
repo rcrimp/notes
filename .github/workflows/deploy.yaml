@@ -33,21 +33,10 @@ jobs:
           go-version: "stable"
           cache: false
 
-      - name: Setup Python (for fixers)
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
       # Replace this module path with the real one for your hugo-obsidian CLI if different
       - name: Install hugo-obsidian
         run: |
-          go install github.com/rcrimp/hugo-obsidian@latest
-
-      # IMPORTANT: don't run your Makefile's update-content in CI (it copies from ~/Documents)
-      - name: Fix content
-        run: |
-          python3 frontmatter_fixer.py
-          python3 link_fixer.py
+          go install github.com/jackyzha0/hugo-obsidian@latest
 
       - name: Build link index (hugo-obsidian)
         run: |
