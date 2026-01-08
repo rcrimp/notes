@@ -1,0 +1,14 @@
+- Beavis and Buthead
+	- Candy Sale
+	- exchanging the same dollar to purchase dozens of candy bars from eachother
+	- https://www.youtube.com/watch?v=L6GKVe7uXWQ
+- The $100 bill riddle/joke
+	- 2019 https://www.reddit.com/r/Jokes/comments/fursi9/times_are_tough_everybody_is_in_debt_and/
+	- 2016 https://www.reddit.com/r/Jokes/comments/507lzi/irish_economics/
+	- 2021 https://www.reddit.com/r/Jokes/comments/r0i2rs/us_government_business_policy/
+	- 2018 https://www.reddit.com/r/Jokes/comments/bfcsha/how_the_germans_bailed_out_greece/
+	- 2012 https://www.econlib.org/archives/2012/01/an_answer_to_a.html
+	- 2009 https://scienceblogs.com/evolutionblog/2009/06/15/an-amusing-brainteaser
+	- 2017 https://www.linkedin.com/pulse/intriguing-parable-how-small-town-cleared-all-debt-lada-prkic-ceng-1
+	- 2009 https://mises.org/wire/misleading-brainteaser
+	- https://grinebiter.com/Joke/StimulusPlan.html

@@ -1,0 +1,57 @@
+- 2 comedy routines that state a premise, and by affirming the premise to an extreme show the absurdity of the premise.
+- leading to a contradiction.
+## Stewart Lee
+
+- UKIP routine: "Come over here, taking our jobs."
+- Reducto ad absurdum, repetition.
+- Premise:
+	- Immigrants are destroying Britain
+- Conclusion:
+	- all life and evolution is destroying Britain
+- Path: anti-Bulgarian -> anti-English -> anti-Huguenots -> anti-Normans -> anti-Anglo-Saxons -> anti-Neolithic -> anti-primordial soup -> anti-matter....
+- critiquing contemporary political and social issues
+- satirize the anti-immigration rhetoric
+- adopts the exaggerated persona of someone who parrots xenophobic clichés
+- repetition and exaggeration, he highlights the absurdity of these statements.
+- repeating "coming over here" to increasingly absurd and benign scenarios
+- undermine prejudice and encourage a more nuanced understanding of immigration.
+- Reducto ad absurdum.
+	- anti-Bulgarian -> anti-English -> anti-Huguenots -> anti-Normans -> anti-Anglo-Saxons -> anti-Neolithic -> anti-primordial soup -> anti-matter....
+- Hans Teeuwen's Respecting Women Routine
+## Hans Teeuwen
+- respect for women routine: "chop chop"
+- Distorted logic
+- Premise:
+	- woman are amazing!
+- Conclusion:
+	- FGM Female Genital Mutilation, remove their clitoris.
+- Path: woman are precious -> need protection
+	- men take, woman are give.
+	- woman are powerful: emotionally stronger than men,
+	- with great power comes great responsibility.
+	- modesty keeps their power in check, keeps them safe from dangerous men.
+	- women should be servile to men, their pleasure should be as servants, therefore they don't need sexual pleasure.
+## Stewart Lee's UKIP routine
+
+- exaggeration and irony to critique societal attitudes towards women.
+- adopts a persona that ostensibly aims to show utmost respect for women, using phrases like "women are precious" and "women are fragile," but quickly escalates into absurdity and contradiction.
+- exposes the patronizing and infantilizing attitudes that can underlie professed respect for women. By overstating these sentiments, he satirizes the performative nature of some forms of chivalry and so-called "respect" that actually serve to reinforce stereotypes and maintain gender inequality.
+- Absurdism
+	- a more layered approach to absurdism
+	- weaving various distorted opinions
+	- juxtaposing contradictory views on women
+	- simultaneously idealized and diminished, empowered and subjugated.
+	- advocating for FGM as a logical conclusion serves as a shocking, provocative end point that forces the audience to confront the extreme implications of such attitudes.
+	- no direct line of progression but rather several distorted opinions.
+- woman are precious
+	- fragility requires protection
+- woman are powerful: emotionally stronger than men
+	- with great power comes great responsibility.
+- modesty keeps their power in check
+	- keeps them safe from dangerous men.
+- men take, woman are give.
+	- men take pleasure, women give pleasure
+- women should be servile to men, their pleasure should be as servants
+	- therefore they don't need sexual pleasure.
+- They don't need a clitoris
+	- FGM Female Genital Mutilation, remove their clitoris.

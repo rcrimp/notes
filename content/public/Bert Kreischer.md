@@ -1,0 +1,26 @@
+- https://www.youtube.com/watch?v=h3PA-re8GeI
+- NEEDS beginning, middle, end
+- arc
+- plant something at the start
+	- "plant a sapling to harvest at the end"
+	- [Setups and Payoffs](Setups%20and%20Payoffs.md)
+	- [callback](callback.md)
+	- [Story Reincorporation](Story%20Reincorporation.md)
+- [Story Obvious End](Story%20Obvious%20End.md)
+- Learn the story, then tell the story drunk
+	- you'll fuck up the story
+	- as you fix it, it'll become better
+- https://www.facebook.com/watch/?v=711959206787238
+	- My wife can't tell a story to save her life
+	- small details
+		- "I could smell his morning cigarette"
+	- **OBVIOUS ENDING**
+		- repeat refrain
+- https://www.youtube.com/watch?v=-G4wA8PM0Io&t=2247s
+	- watch the Moth
+	- The journey to the end should be funny
+		- oneliners inside story
+		- throw aways inside story
+	- Writing story with emotion
+		- "I was scared as fuck"
+	-[Christopher Titus](Christopher%20Titus.md)

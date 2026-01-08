@@ -1,0 +1,171 @@
+
+  <style> body { margin: 0; } </style>
+
+  <script src="//unpkg.com/3d-force-graph"></script>
+  <!-- <script src="https://d3js.org/d3.v2.js"></script> -->
+  <script src="//unpkg.com/d3-force-3d"></script>
+  <script src="//unpkg.com/d3-octree"></script>
+  <script src="//unpkg.com/dat.gui"></script>
+  <script src="//unpkg.com/three"></script>
+
+  
+
+  <div id="3d-graph"></div>
+  <style>
+
+  </style>
+
+  <script>
+    const curPage = {{ strings.TrimRight "/" .Page.Permalink }}.replace({{strings.TrimRight "/" .Site.BaseURL }}, "")
+    const fullScreen = curPage == '/404.html';
+
+    function hashStr(str) {
+      var hash = 0;
+      for (var i = 0; i < str.length; i++) {
+          var charCode = str.charCodeAt(i);
+          hash += charCode;
+      }
+      return (hash % 100) / 100;
+  }
+
+    graph_links = links
+
+    
+
+    node_names = [...new Set(links.map(l => l['source']).concat(links.map(l => l['target'])))];
+    graph_nodes = node_names.map(path => ({
+        id: path,
+        name: path == '/' ? "Reuben's Notes" : path.split('/')[path.split('/').length - 1].replaceAll('-', ' '),
+        group: path.split('/')[1],
+        in: index['links'][path] !== undefined ? index['links'][path].length : 0,
+        out: index['backlinks'][path] !== undefined ? index['backlinks'][path].length : 0,
+        size: content[path] == undefined ? 1 : content[path].content.length,
+        {{/*  y: 500 * Math.sin(hashStr(path)) * Math.sin(hashStr(path)),  */}}
+        {{/*  x: 500 * Math.sin(hashStr(path)) * Math.cos(hashStr(path)), //path.startsWith('/private') ? 100 : -100,  */}}
+        {{/*  z: 500 * Math.sin(hashStr(path)),  */}}
+      }))
+
+    const c_red = "#d32f2f"
+    const c_grey = "#888888"
+    const c_yellow = "ffc400"
+    const Graph = ForceGraph3D()
+      (document.getElementById('3d-graph'))
+        .backgroundColor('rgba(0,0,0,0)')
+        .nodeColor(d => d.group == "public" ? c_red : d.group == '' ? c_red : c_grey)
+        .nodeVal(d => 1 + Math.pow(d.size / 500, 2)) //Math.min(20, 0.5 + Math.pow((d.in + d.out), 2) / 5))
+        .nodeOpacity(0.9)
+        .linkColor(l => c_grey)
+          // (l['source'].startsWith('/public') || l['source'] == '/')
+          // && l['target'].startsWith('/public')
+          // ? c_grey : c_grey)
+        .linkWidth(0)
+        .linkOpacity(0.5)
+        // .linkDirectionalArrowLength(5)
+        // .linkDirectionalArrowRelPos(1)
+        .showNavInfo(false)
+        {{/*  .d3Force('charge', d3.forceManyBody().strength(-100)
+          .theta(0.9)
+          .distanceMin(50)
+          .distanceMax(500))
+        .d3Force('link', d3.forceLink().distance(link => 20))  */}}
+        .onNodeClick(node => {
+          
+            {{/*  if (!node.id.startsWith('/private'))  */}}
+              window.location.href = {{.Site.BaseURL}} + decodeURI(node.id).replace(/\s+/g, '-')
+          
+          if (fullScreen) {
+            // Aim at node from outside it
+            const distance = 200;
+            const distRatio = 1 + distance/Math.hypot(node.x, node.y, node.z);
+
+            Graph.cameraPosition(
+              { x: node.x * distRatio, y: node.y * distRatio, z: node.z * distRatio }, // new position
+              node, // lookAt ({ x, y, z })
+              3000  // ms transition duration
+            )
+          }
+        })
+        .graphData({
+          nodes: graph_nodes,
+          links: graph_links
+        });
+
+    let distance = 1200;
+    if (!fullScreen) {
+      distance = 600
+      Graph.height(400).enableNavigationControls(false)
+      // camera orbit
+    
+      let angle = 0;
+      {{/*  const pos = Graph.cameraPosition();  */}}
+      setInterval(() => {
+        Graph.cameraPosition({
+          x: distance * Math.cos(angle),
+          z: distance * Math.sin(angle),
+          y: -200,
+        });
+        Graph.backgroundColor(localStorage.getItem('theme') == 'dark' ? 'rgb(34, 34, 34)' : '#faf8f8')
+        angle -= Math.PI / 1000;
+      }, 10);
+    }
+
+    // force settings
+    development = false;
+    if (development) {
+      const Settings = function() {
+        this.chargeStrength = -100;
+        this.theta = 0.9;
+        this.distanceMin = 0;
+        this.distanceMax = Infinity;
+        this.linkDistance = 15;
+        this.centerStrength = 0.5;
+        this.linkStrength = 1
+      };
+
+      const settings = new Settings();
+      const gui = new dat.GUI();
+
+      const controllers = [
+        gui.add(settings, 'chargeStrength', -1000, 1),
+        gui.add(settings, 'theta', 0, 1),
+        gui.add(settings, 'distanceMin', 0, 1000),
+        gui.add(settings, 'distanceMax', 0, 10000),
+        gui.add(settings, 'linkDistance', 0, 100),
+        gui.add(settings, 'centerStrength', 0, 2),
+        gui.add(settings, 'linkStrength', 0, 10)
+      ]
+      controllers.forEach(c => c.onChange(updateGraph))
+
+      const linkForce = Graph
+        .d3Force('link')
+      const bodyForce = Graph
+        .d3Force('charge')
+      
+      //const centerForce = Graph
+        //.d3Force('center')
+        // , d3.forceRadial())
+        //.strength(settings.centerStrength)
+      updateGraph()
+      
+
+      function updateGraph() {
+        linkForce
+          .distance(link => settings.linkDistance * (link.source.size + link.target.size) / 1000)
+          .strength(link => settings.linkStrength / (
+            1
+            {{/*  + link.source.in + link.target.out  */}}
+            + (link.source.size + link.target.size) / 1000
+            ))
+        bodyForce
+          .strength(settings.chargeStrength)
+          .theta(settings.theta)
+          .distanceMin(settings.distanceMin)
+          .distanceMax(settings.distanceMax);
+        // centerForce.strength(settings.centerStrength);
+
+        Graph.numDimensions(3); // Re-heat simulation
+        {{/*  Graph.d3ReheatSimulation()  */}}
+      }
+    }
+
+  </script>

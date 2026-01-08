@@ -1,0 +1,13 @@
+## Research
+- anti-catharsis
+- Twist endings
+	- [[Types of Twist Endings]]
+	- [Surprise Twist Endings](Surprise%20Twist%20Endings.md)
+- [Story Reincorporation](Story%20Reincorporation.md)
+	- [callback](callback.md) callbacks and denoument
+	- [Setups and Payoffs](Setups%20and%20Payoffs.md)
+	- 
+- [Goal Based Ending](Goal%20Based%20Ending.md)
+	- happy ending / tragedy
+- [Cosmic Irony](Cosmic%20Irony.md)
+	- tragedy

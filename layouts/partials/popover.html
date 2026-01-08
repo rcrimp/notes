@@ -1,0 +1,37 @@
+{{if $.Site.Data.config.enableLinkPreview}}
+<script>
+  function htmlToElement(html) {
+    const template = document.createElement('template')
+    html = html.trim()
+    template.innerHTML = html
+    return template.content.firstChild
+  }
+
+  const pathRegex = /\.\.?(\/\.\.)*/
+  document.addEventListener("DOMContentLoaded", () => {
+    [...document.getElementsByClassName("internal-link")]
+      .forEach(li => {
+        if (li.dataset.src == undefined)
+          return
+        const linkDest = content[li.dataset.src.replace(pathRegex, '')]
+
+        if (linkDest) {
+          const icon = {{partial "svg-book.html" .}}
+          const popoverElement =
+            `<div class="popover">
+              <h3>${icon}${linkDest.title}</h3>
+              <p>${removeMarkdown(linkDest.content).split(" ", 15).join(" ")}...</p>
+            </div>`
+          const el = htmlToElement(popoverElement)
+          li.insertBefore(el, li.firstChild)
+          li.addEventListener("mouseover", () => {
+            el.classList.add("visible")
+          })
+          li.addEventListener("mouseout", () => {
+            el.classList.remove("visible")
+          })
+        }
+      })
+  })
+</script>
+{{end}}

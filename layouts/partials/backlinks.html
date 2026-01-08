@@ -1,0 +1,34 @@
+<h3>Backlinks</h3>
+<ul class="backlinks">
+    {{$url := urls.Parse .Site.BaseURL }}
+    {{$host := strings.TrimRight "/" $url.Path }}
+    {{$curPage := strings.TrimPrefix $host (strings.TrimRight "/" .Page.RelPermalink) }}
+    {{$inbound := index $.Site.Data.linkIndex.index.backlinks $curPage}}
+    {{$contentTable := $.Site.Data.contentIndex}}
+    {{if $inbound}}
+        {{$cleanedInbound := apply (apply $inbound "index" "." "source") "replace" "." " " "-"}}
+        {{- range $cleanedInbound | uniq -}}
+            <li>
+                {{- if hasPrefix . "/private" -}}
+                    <span>
+                        {{partial "svg-book.html" .}}
+                        Private
+                    </span>
+                {{- else -}}
+            
+                    <a href="{{.}}">
+                        {{partial "svg-book.html" .}}
+                        {{index (index $contentTable .) "title"}}
+                    </a>
+                {{- end -}}
+            </li>
+            {{/*  <p>
+                {{ substr (index (index $contentTable .) "content") 0 150 }} ...
+            </p>  */}}    
+        {{- end -}}
+    {{else}}
+    <li>
+        No backlinks found
+    </li>
+    {{end}}
+</ul>

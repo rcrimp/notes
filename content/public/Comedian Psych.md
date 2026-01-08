@@ -1,0 +1,15 @@
+- Humor Styles
+- Affiliative humor promotes social bonds and puts others at ease through telling jokes, saying funny things, and not taking oneself too seriously. 
+- Self-enhancing humor is the ability to see the funny side of life even in adverse and stressful times, and to use humor as a coping mechanism. 
+- Aggressive humor aims to tease and ridicule others through putdowns, mockery, and ridicule, typically to enhance one’s social status at the expense of the victimized individual (as in other-deprecating humor) or group (as in sexist or racist humor). 
+- Self-defeating humor amuses others at one’s own expense through making oneself the “butt” of jokes and laughing with others after being disparaged, although it can also be valued as self-deprecating humor.
+- emotional and social intelligence
+- Professional comedians statistically have high IQ. One study ranged 112-160 averaged 135.
+- Introversion over extraversion
+- professional success depends not just on their short-term spontaneous humor production ability, but also on their long-term skill, dedication, and ambition in crafting and refining an effective act that can be modulated for different audiences in different cities with different tastes, traits, backgrounds, and levels of inebriation  
+- Bill Burr's anger
+- Seinfelds irritation
+- Jeselnik's smugness
+- Stanhope's scorn
+- Milton Jone's confusion
+

@@ -1,0 +1,19 @@
+{{$trimmed := strings.TrimSuffix ".md" (.Destination | safeURL)}}
+{{$trimmed = replace $trimmed "%20" "-" }}
+{{$external := strings.HasPrefix $trimmed "http" }}
+{{- if $external -}}
+    <a href="{{ $trimmed }}" rel="noopener" class="external-link">
+        {{ .Text | safeHTML }}{{partial "svg-outgoing-link.html" .}}
+    </a>
+{{- else -}}
+    {{$fixedUrl := (cond (hasPrefix $trimmed "/") $trimmed (print "/" $trimmed)) | urlize}}
+    {{- if hasPrefix $fixedUrl "/private" -}}
+        <a href="{{$fixedUrl}}" rel="noopener" class="private-link" data-src="{{$fixedUrl}}">
+            {{partial "svg-book.html" .}}{{ .Text | safeHTML }}
+        </a>
+    {{- else -}}
+        <a href="{{$fixedUrl}}" rel="noopener" class="internal-link" data-src="{{$fixedUrl}}">
+            {{partial "svg-book.html" .}}{{ .Text | safeHTML }}
+        </a>
+    {{- end -}}
+{{- end -}}

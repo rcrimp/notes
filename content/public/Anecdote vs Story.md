@@ -1,0 +1,15 @@
+- Both are events that happened
+	- The point of an anecdote is the **ending**
+	- The point of a story is the **journey**
+- Length
+	- A 10 minute story is a fun ride
+	- A 10 minute anecdote is **HELL**
+- Anecdote
+	- contains only whats needed to reach the finale
+	- 3 minutes of setup for 1 payoff
+- Storytelling
+	- more backstory (more setup)
+	- tangents, subplots, sidenotes
+	- jokes throughout
+	- highs and lows
+	- more intricate and carefully crafted

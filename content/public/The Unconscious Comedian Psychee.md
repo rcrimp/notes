@@ -1,0 +1,12 @@
+---
+title: The Unconscious, Comedian Psychee
+---
+- Stewart Lee
+- Shamanism
+- Adrenaline
+- Hypnotism
+- Splitting Psychee
+- impulsivity
+- Tourettes - intense urges nearly impossible to resist
+- Ventiloquism
+- Johnny Vegas

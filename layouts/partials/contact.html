@@ -1,0 +1,32 @@
+<!-- Contact Info -->
+<div id="contact_buttons">
+    <footer>
+        {{ if not .IsHome }}
+            <a href="/" class='internal-link'>
+                {{partial "svg-book.html" .}}Home
+            </a>
+            &nbsp;
+            {{end}}
+            <a href="/public" class='internal-link'>
+                {{partial "svg-book.html" .}}Archive
+            </a>
+            &nbsp;
+            {{- range $.Site.Data.config.links -}}
+            <a href="{{.link}}" class='external-link'>
+                {{.link_name}}
+            </a>
+            &nbsp;
+        {{- end -}}
+        <p>
+            Written with
+            <a href="https://www.obsidian.md" class="external-link">
+                Obsidian{{partial "svg-outgoing-link.html" .}}
+            </a>
+            deployed with
+            <a href="https://github.com/jackyzha0/quartz" class="external-link">
+                Quartz{{partial "svg-outgoing-link.html" .}}
+            </a>
+            on {{ dateFormat "Jan 2, 2006" now }}
+        </p>
+    </footer>
+</div>

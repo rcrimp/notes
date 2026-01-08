@@ -1,0 +1,8 @@
+enableLegend: true
+enableDrag: true
+enableZoom: true
+depth: 2 # set to -1 to show full graph
+paths:
+  - /public: "var(--secondary)" # green
+  - /private: "var(--outlinegray)" # grey
+

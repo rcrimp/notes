@@ -1,0 +1,126 @@
+---
+title: Daniel Kitson Stories
+---
+# Daniel Kitson Shows
+
+## Live in Hull
+- Waiting for a taxi
+	- Just around the corner  
+- Radio Loose ends  
+- Travel
+	- Brixton train
+	- 1st class flight  
+- First night at university  
+	- Denby Dale  
+	- Pie village  
+	- Room Flooded  
+	- Bondo 
+	- Went home to pie village  
+- Arse worms as an adult  
+- People are cunts  
+	- Do anything  
+	- ipod  
+	- Old women laughing  
+	- Clags  
+	- Defending dad on Christmas 
+- Sleeping in cars
+- parents house
+- Christmas,  
+  
+# Cardiff Glee Club preview  
+- Preview  
+- Ba oriental  
+- Hottub glimmer  
+	- CDs taped to a tree  
+- Amoeba  
+- Business class plane Australia gf  
+- Buying a chair  
+- Brother lawyer mechanic  
+- Nuts magazine WKD, Mk club ultra  
+- Phone Beckett  
+- Movies
+	- You got served
+	- top gun
+	- dancing.  
+  
+# live in Manchester  
+  
+- Loneliness,  
+- Can't dance  
+- Night clubs  
+- Listening club  
+- Shower at comedy club  
+- Literallt nothing in common  
+- Wacky hat  
+- Hooded top  
+- God, lend me your strength  
+- Burger King  
+- Jogging  
+- Pull back and reveal  
+- Sleeping on the train, greasy, nike delicious  
+- Cope with loneliness, Razor Clams  
+- Dad Scrabble  
+- Dad Tennis  
+- Gym  
+- I made dinner, clean up, kiss  
+- Leather arm chair
+
+# Dancing
+Throughline: internal monologue as an act out
+- No Smoking
+	- Sydney Opera house gig
+- my show
+	- Longer than hour Heyah!
+	- Learned/practice their shows
+- Peculiar feeling of hollowness
+	- Too much comedy
+	- Audience are sheep, send
+- Dancing
+	- Self conscience prevents dancing
+	- Stop thinking and dance
+		- Don't want to look like a cunt
+	- Comedy club disco
+		- Attention seeking
+		- Depravity and curly fries
+- Hotel rooms bleak
+	- Smell semen misery
+	- Door card
+- Misanthrope
+	- Hate people
+	- Genocide and PS2
+- Music - hate night clubs
+	- Listening vs dancing music
+	- Existential potential
+	- Listening club
+	- Night clubs, delayed misery
+	- Disco nap, pee tong?
+	- RnB, bump n grind
+	- Night club in Adelaide
+		- I'm the beat daddy
+		- Wafting smell
+		- Cunt for love
+- Love
+	- charming desperation
+		- John has an 8 ball
+	- Problem with the modern world
+		- Fire trap of a venue
+		- Fewer opportunities to die for love
+	- Start tingling excitement
+		- We both love Italian cuisine
+		- High 5 during sex
+	- Having a type, criteria, 
+		- Lisa Mathewmen 9 years old
+		- Note, please and thanks
+		- Made card, clicked heels
+- Three schools
+	- Middle school dance
+		- Asking Lisa to dance
+		- Swallow dive, brack dancing
+		- Express yourself
+		- Ceilidh
+		- Knock over the plates
+- Asthma inhaler
+- Eyes natural resting
+- school camp: Dungeon Ghyll adventures
+	- Friend taking photo penis
+	- Teddy bear

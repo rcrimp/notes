@@ -1,0 +1,26 @@
+- stressed syllable
+	- louder
+	- higher pitch
+	- longer
+- rules
+	- nouns /u 'garment
+	- verbs u/ for'get
+- iambic
+	- u/
+	- belong
+	- unit
+	- surprise
+- anapestic
+	- uu/
+	- overthrow
+	- contradict
+- trochaic
+	- /u
+	- raven
+	- poet
+- dactylic
+	- /uu
+	- poetry
+- ??
+	- you cant handle the truth
+	- ///u//
