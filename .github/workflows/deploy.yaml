@@ -1,9 +1,18 @@
-name: Deploy to GitHub Pages
+name: Deploy Hugo/Quartz to GitHub Pages
 
 on:
   push:
-    branches:
-      - hugo
+    branches: ["hugo"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -18,14 +27,27 @@ jobs:
           hugo-version: "0.154.3"
           extended: true
 
-      - name: Setup Go
+      - name: Setup Go (for hugo-obsidian)
         uses: actions/setup-go@v5
         with:
           go-version: "stable"
+          cache: false
 
+      - name: Setup Python (for fixers)
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Replace this module path with the real one for your hugo-obsidian CLI if different
       - name: Install hugo-obsidian
         run: |
-          go install github.com/jackyzha0/hugo-obsidian@latest
+          go install github.com/rcrimp/hugo-obsidian@latest
+
+      # IMPORTANT: don't run your Makefile's update-content in CI (it copies from ~/Documents)
+      - name: Fix content
+        run: |
+          python3 frontmatter_fixer.py
+          python3 link_fixer.py
 
       - name: Build link index (hugo-obsidian)
         run: |
@@ -35,17 +57,17 @@ jobs:
         run: |
           hugo --minify
 
-      - name: Upload artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
   deploy:
+    runs-on: ubuntu-latest
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
