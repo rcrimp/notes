@@ -71,4 +71,4 @@ do not need to brainstorm, just look in the slipbox for gaps, or existing connec
 
 project notes
 
-[Meno’s Paradox](public/Meno’s%20Paradox.md)
+[Meno’s Paradox](public/Menos%20Paradox.md)

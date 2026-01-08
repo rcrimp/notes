@@ -11,7 +11,7 @@ tag: section
 
 ## 📚 Reading
 - THE HERO WITH A THOUSAND FACES by Joseph Campbell
-	-  [Hero's Journey](public/Hero's%20Journey.md)
+	-  [Hero's Journey](public/Heros%20Journey.md)
 - The Seven Basic Plots
 - [Science of Storytelling](public/Science%20of%20Storytelling.md)
 - [Unleash The Power of StoryTelling](public/Unleash%20The%20Power%20of%20StoryTelling.md)

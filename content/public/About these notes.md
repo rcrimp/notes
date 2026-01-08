@@ -128,7 +128,7 @@ title: "About these Notes"
 	- 🔵 drafts / Inbox
 	- 🟢 topic tags
 	- ⬛ private
-![[Pasted image 20251210105614.png]]
+![](/public/images/Pasted%20image%2020251210105614.png)
 
 
 - Jan 29, 2022
@@ -136,7 +136,7 @@ title: "About these Notes"
 	- 📙 comedy material
 	- 📕 Comedy study notes
 
-![[graph-2022-01-29-211628.png]]
+![](/public/images/graph-2022-01-29-211628.png)
 
 - June 19, 2021
 - 143 notes
@@ -144,7 +144,7 @@ title: "About these Notes"
 	- 🔵 Drafts
 	- 🔴 Comedy study notes
 
-![[2022-06-20-snapshot.png]]
+![](/public/images/2022-06-20-snapshot.png)
 
 ## Research
 

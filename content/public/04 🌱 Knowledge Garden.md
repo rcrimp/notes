@@ -18,7 +18,7 @@ tag: section
 - [Wisdom](public/Wisdom.md)
 - [Knowing is an Illusion](public/Knowing%20is%20an%20Illusion.md) understanding is an illusion
 - [Thoughts are illusions](public/Thoughts%20are%20illusions.md)
-- [Meno’s Paradox](public/Meno’s%20Paradox.md) of information retrieval
+- [Meno’s Paradox](public/Menos%20Paradox.md) of information retrieval
 - [Paradox of Knowledge](public/Paradox%20of%20Knowledge.md)
 - [Unknown unknows](public/Unknown%20unknows.md)
 - [Epistemological Problems](public/Epistemological%20Problems.md)
@@ -48,7 +48,7 @@ tag: section
 - [[Moments that feel momentous]]
 - [Animism](public/Animism.md)
 - [[Teenagers]]
-- [Feeling like you don't belong](public/Feeling%20like%20you%20don't%20belong.md)
+- [Feeling like you don't belong](public/Feeling%20like%20you%20dont%20belong.md)
 - We aren't unique
 	- We are all harrowingily similar.  
 

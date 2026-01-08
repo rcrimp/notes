@@ -243,4 +243,4 @@ Jo Brand
 "Don't show us your tits."
 
 # Joan Rivers
-![[joan_rivers_hecklers.png]]
+![](/public/images/joan_rivers_hecklers.png)

@@ -17,7 +17,7 @@ title: "Jeff Simmermon"
 		- inciting incident
 	- end of act 2 tree is on fire
 	- in act 3, he escapes the tree
-- [Hero's Journey](public/Hero's%20Journey.md)
+- [Hero's Journey](public/Heros%20Journey.md)
 	- 5 parts
 		- You
 		- Need

@@ -19,7 +19,7 @@ There are many different "types" of paradox
 		1. Something false which is proven true
 			1. 1 == 2 proof
 			2. Zeno's paradox
-			3. [Meno’s Paradox](public/Meno’s%20Paradox.md)
+			3. [Meno’s Paradox](public/Menos%20Paradox.md)
 			4. [Paralogical](public/Paralogical.md) 
 	3. Antinomy
 		1. a true logical paradox

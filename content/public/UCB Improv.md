@@ -59,4 +59,4 @@ title: "Ucb Improv"
 - [establish game before heightening](public/establish%20game%20before%20heightening.md)
 - dont narrate what you're doing
 - dont resort to your bag of tricks
-- [don't talk about the thing](public/don't%20talk%20about%20the%20thing.md)
+- [don't talk about the thing](public/dont%20talk%20about%20the%20thing.md)
