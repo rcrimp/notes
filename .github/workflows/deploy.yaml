@@ -6,17 +6,11 @@ on:
       - hugo
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Build Anonymized Link Index
-        uses: rcrimp/hugo-obsidian@v2.7.c
-        with:
-          index: true
-          input: content
-          output: data
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -24,13 +18,35 @@ jobs:
           hugo-version: "0.154.3"
           extended: true
 
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Setup Go
+        uses: actions/setup-go@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: master # deploying branch
-          cname: reubencrimp.com/notes
+          go-version: "stable"
+
+      - name: Install hugo-obsidian
+        run: |
+          go install github.com/jackyzha0/hugo-obsidian@latest
+
+      - name: Build link index (hugo-obsidian)
+        run: |
+          hugo-obsidian -input=content -output=data -index=true -root=.
+
+      - name: Build site
+        run: |
+          hugo --minify
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
