@@ -23,6 +23,7 @@ Types of misdirection
 [Forced Reinterpretation](public/Forced%20Reinterpretation.md)
 [Paraprosdokian](public/Paraprosdokian.md)
 Bait and Switch
+[Compliment misdirection](public/Compliment%20misdirection.md)
 
 Subverted expectations
 Broken assumption

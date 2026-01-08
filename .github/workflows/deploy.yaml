@@ -33,7 +33,6 @@ jobs:
           go-version: "stable"
           cache: false
 
-      # Replace this module path with the real one for your hugo-obsidian CLI if different
       - name: Install hugo-obsidian
         run: |
           go install github.com/jackyzha0/hugo-obsidian@latest

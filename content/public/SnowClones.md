@@ -18,7 +18,8 @@ Cliche linguistic structures.
 2. Analogies (colon notation)  
   
 X is the new Y  
-  
+[m out of of n x do y](public/m%20out%20of%20of%20n%20x%20do%20y.md)
+
 ----------  
   
 X are just Y for Z  
