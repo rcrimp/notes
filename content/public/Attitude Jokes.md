@@ -10,7 +10,7 @@ More free form than traditional structures
 - emphasize: false modesty, mock humility
 
 ## Ironic Condecension
-- **setup**: claim an obvious falsehood as truth ([Honest Deceptions](Honest%20Deceptions.md))
+- **setup**: claim an obvious falsehood as truth ([Honest Deceptions](public/Honest%20Deceptions.md))
 - **punch**: mock those who don't beleive it
 ## Ironic ???
 - example: "I beleive it was the physicist John Dalton who postulated in the late 18th century that the matter was built from indivisible atom... what a fucking idiot"

@@ -38,7 +38,7 @@ Good puns have a single sound interpretation, the 1st is usually discarded
 Both 1st and 2nd sense are explicit, semantically present, relevant.
 Both senses are compatible.
 > I lost all faith in my dentist after he said: brace yourself
-[syllepsis](syllepsis.md)
+[syllepsis](public/syllepsis.md)
 
 Both 1st and 2nd sense are explicit, semantically present, relevant.
 Both senses are plausible, so neither are discarded

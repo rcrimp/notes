@@ -12,13 +12,13 @@ title: Reversal Inversion Transposition
 - Are they switcheroo or misdiretion sometimes?
 
 1. Grammatical reversal
-2. [Spoonerism](spoonerism.md)
-3. [Chiasmus](Chiasmus.md)
-4. [Antithesis](Antithesis.md) a form of [Parallelism](Parallelism.md)
+2. [spoonerism](public/spoonerism.md)
+3. [Chiasmus](public/Chiasmus.md)
+4. [Antithesis](public/Antithesis.md) a form of [Parallelism](public/Parallelism.md)
 5. Role Reversal (in Soviet Russia jokes)
 6. Figure-ground reversal (light bulb jokes)
-7. [Vacuous reversal](Vacuous%20reversal.md)
-8. [Rhetorical Reversal](Rhetorical%20Reversal.md)
+7. [Vacuous reversal](public/Vacuous%20reversal.md)
+8. [Rhetorical Reversal](public/Rhetorical%20Reversal.md)
 
 > The Simpsons S06E16  
 Bart vs AUstralia  
@@ -71,6 +71,6 @@ Therefore, a stale pretzel is better than God.
 
 ## Meta
 > I would say that simple inversion of a popular situation wouldn't be enough to carry this as a joke.  
-> You would also need a build to a [[comedic climax]]  
+> You would also need a build to a [comedic climax](public/comedic%20climax.md)  
 > And then he said look at my cock  
 > And I said, that'll do.

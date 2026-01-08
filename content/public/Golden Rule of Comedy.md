@@ -10,5 +10,3 @@ Achieving the opposite of your goal is Comic Irony
 
 Created: 2022-04-07 02:40:28   ---   Updated: 2022-04-07 02:55:14
 
-[https://keep.google.com/#NOTE/18001e4ad31.bd3ddf6d6d6cc3dc](https://keep.google.com/#NOTE/18001e4ad31.bd3ddf6d6d6cc3dc)
-

@@ -15,5 +15,3 @@ Which means the other 2 misunderstood the question.
 
 Created: 2024-02-09 07:27:58   ---   Updated: 2024-02-13 11:45:12
 
-[https://keep.google.com/#NOTE/18d8cc37fea.bef64943742f7498](https://keep.google.com/#NOTE/18d8cc37fea.bef64943742f7498)
-

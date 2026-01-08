@@ -14,12 +14,12 @@ title: Forced Reinterpretation
 
 
 - Greg Dean's Joke Prospector System (from his book)
-- Take the literal interpretation of a [cliche expression](cliche%20expression.md)
+- Take the literal interpretation of a [[cliche expression]]
 
 > “If a tree falls in the forest and nobody hears, my illegal logging business is a success”
 
 > "If you are in the market for easy laughs, you learn that two well-tried ways are either to trip up a cliche or take things absolutely literally." - Terry Pratchett
 
-[Double Sense](Double%20Sense.md)
-[Metalinguistics](Metalinguistics.md)
-[Paraprosdokian](Paraprosdokian.md)
+[Double Sense](public/Double%20Sense.md)
+[Metalinguistics](public/Metalinguistics.md)
+[Paraprosdokian](public/Paraprosdokian.md)

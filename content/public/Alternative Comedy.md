@@ -17,7 +17,7 @@ title: "Alternative Comedy"
 	- The jokes were slapstick, mockery, sexual content "low brow"
 		- Many jokes were sexist racist, homophobic etc.. i.e. street jokes.
 - 1960s
-	- [Lenny Bruce](Lenny%20Bruce.md) was alternative to the mainstream
+	- [Lenny Bruce](public/Lenny%20Bruce.md) was alternative to the mainstream
 		- specificlly doing anti-racism, anti-homophobia material
 - 1970-1980
 	- The first *"alternative comedy scene"* in the UK established ground rules against racist sexist jokes.
@@ -39,7 +39,7 @@ title: "Alternative Comedy"
 - Funny, clever, entertaining performances which are alternative to the mainstream 
 
 ## Comedians
-- [Andy Daly](Andy%20Daly.md)
+- [Andy Daly](public/Andy%20Daly.md)
 - [Saying nothing for 10 minutes](https://www.youtube.com/watch?v=VI8Bg6KcmAY)
 	- borderline incomprehensible
 	- still inflicts with comedic rhythm and punchlines
@@ -57,7 +57,7 @@ title: "Alternative Comedy"
 	- Musician banter between songs
 - [Yusuf Estes islamic preacher](https://www.youtube.com/watch?v=-MZ7NkkA0Ng)
 	- Very funny guy
-- [John Piper christian preacher](Accidentally%20funny%20preacher.md)
+- [Accidentally funny preacher](public/Accidentally%20funny%20preacher.md)
 	- Unintentionally funny
 - [Alan Watts spiritual preacher](https://www.youtube.com/watch?v=mDVG7-1Ghgs)
 	- Great public speaker, with some funny moments

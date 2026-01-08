@@ -25,13 +25,13 @@ title: Tautology
 Where is the sun
 it's in the sky
 
-- [Nonsense](Nonsense.md)
+- [Nonsense](public/Nonsense.md)
 	- a tautology conveys no information
-- [Antijoke](Antijoke.md)
+- [Antijoke](public/Antijoke.md)
 	- a tautology is sometimes stupidly obvious
 - similarly a contradiction conveys no information
-	- related to [Vacuous reversal](Vacuous%20reversal.md)
-- Distinction without a difference [Reframing](Reframing.md)
+	- related to [Vacuous reversal](public/Vacuous%20reversal.md)
+- Distinction without a difference [Reframing](public/Reframing.md)
 - https://en.wikipedia.org/wiki/Tautophrase
 - https://examples.yourdictionary.com/examples-of-tautology.html
 - https://en.wikipedia.org/wiki/Tautology_(language)

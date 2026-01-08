@@ -36,5 +36,3 @@ Despite what other people say.
 
 Created: 2024-07-07 11:56:37   ---   Updated: 2025-01-28 09:00:24
 
-[https://keep.google.com/#NOTE/1908d0d2665.9254edd931e362c3](https://keep.google.com/#NOTE/1908d0d2665.9254edd931e362c3)
-

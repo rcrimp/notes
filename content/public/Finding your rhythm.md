@@ -14,7 +14,7 @@ title: "Finding Your Rhythm"
 4. timing, create tension with a well-timed pause.
 
 - building to a climax
-	- [[comedic climax]]
+	- [comedic climax](public/comedic%20climax.md)
 - juxtapose different kinds of rhythms
 	- contrast the low and grizzly voice with the high and squeaky
 - create melody
@@ -24,7 +24,7 @@ title: "Finding Your Rhythm"
 - Parallel rhythmic structure
 	- rhythmic pattern is repeated
 	- provides joke structure.
-	- [Parallelism](Parallelism.md)
+	- [Parallelism](public/Parallelism.md)
 
 ## Music
 - Similarities between stand-up comedy and music

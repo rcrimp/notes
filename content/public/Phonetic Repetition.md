@@ -14,7 +14,7 @@ Can be overdone and forced, so be careful.
 	2. shm-reduplication
 
 ## assonance
-clang responses [Plosives Hard Consonants](Plosives%20Hard%20Consonants.md)
+clang responses [Plosives Hard Consonants](public/Plosives%20Hard%20Consonants.md)
 
 ## Rhyme
 Fat Cat

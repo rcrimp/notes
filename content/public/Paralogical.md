@@ -28,10 +28,10 @@ title: Paralogical
 - Some Paralogism may require more cognitive strain to unravel, as they are riddles / brain teasers
 
 - Internal Contradiction
-- [Paradox](Paradox.md)
+- [Paradox](public/Paradox.md)
 	- Obviously false. Recognizable as an honest deception.
 - Non sequitur
-	- [Nonsense](Nonsense.md) Absurdism or Surrealism. Some assocation is suggested though none exists.
+	- [Nonsense](public/Nonsense.md) Absurdism or Surrealism. Some assocation is suggested though none exists.
 - Reasoning from false premises
 - Jumping to Conclusions
 	- Inductive reasoning

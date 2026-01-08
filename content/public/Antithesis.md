@@ -91,7 +91,7 @@ here are just a few examples from his Live on Broadway special.
 
 > Drugs can kill you, you need drugs to live (59m)
 
-also [Chiasmus](Chiasmus.md)
+also [Chiasmus](public/Chiasmus.md)
 > Right to bear arms, right to arm bears (Live at the met, 21m)
 
 

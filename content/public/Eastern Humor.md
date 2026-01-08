@@ -5,7 +5,7 @@ Cultural Humor
 https://www.frontiersin.org/articles/10.3389/fpsyg.2019.00123/full
 
 ## Western views are positive
-Western views of humour include [Relief Theory](Relief%20Theory.md), that humor releases tension, fear, and anxieties.
+Western views of humour include [Relief Theory](public/Relief%20Theory.md), that humor releases tension, fear, and anxieties.
 It's a social tool to help overcome uncomfort and awkwardness
 
 Humor as a trait is desirable, affable

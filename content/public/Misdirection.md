@@ -8,7 +8,7 @@ presupposition
 cognitive heuristics
 sophistry
 
-[Circle of expectations](Circle%20of%20expectations.md)
+[Circle of expectations](public/Circle%20of%20expectations.md)
 
 Weasel words
 - vague: some people, experts, many
@@ -18,10 +18,10 @@ Weasel words
 relates to Incongruity Resolution Theory?
 
 Types of misdirection
-[Switcheroo](Switcheroo.md) ambiguous
-[Pull-back-and-reveal](Pull-back-and-reveal.md) maxim of quantity, vagueness
-[Forced Reinterpretation](Forced%20Reinterpretation.md)
-[Paraprosdokian](Paraprosdokian.md)
+[Switcheroo](public/Switcheroo.md) ambiguous
+[Pull-back-and-reveal](public/Pull-back-and-reveal.md) maxim of quantity, vagueness
+[Forced Reinterpretation](public/Forced%20Reinterpretation.md)
+[Paraprosdokian](public/Paraprosdokian.md)
 Bait and Switch
 
 Subverted expectations
@@ -33,14 +33,14 @@ an utterance in language can have many interpretations, due to ambiguity and vag
 > 1. make a salad
 > 2. give it to the chicken
 
-In traditional communication [Cooperative Principle](Cooperative%20Principle.md) we assume a single interpretation is intended. If there is more than one semantic interpretation, most are excluded, often at a cognitive level lower than our awareness.
+In traditional communication [Cooperative Principle](public/Cooperative%20Principle.md) we assume a single interpretation is intended. If there is more than one semantic interpretation, most are excluded, often at a cognitive level lower than our awareness.
 
-The phrase "chicken salad" has two distinct interpretations, one more obvious. The less obvious interpretation is discarded unconsciously, only to be revealed with the punchline. [Forced Reinterpretation](Forced%20Reinterpretation.md)
+The phrase "chicken salad" has two distinct interpretations, one more obvious. The less obvious interpretation is discarded unconsciously, only to be revealed with the punchline. [Forced Reinterpretation](public/Forced%20Reinterpretation.md)
 
 ## Ambiguity
 Ambiguous words and phrases
-1. [Referential Ambiguity](Referential%20Ambiguity.md)
-2. [Prepositional Ambiguity](Prepositional%20Ambiguity.md)
+1. [Referential Ambiguity](public/Referential%20Ambiguity.md)
+2. [Prepositional Ambiguity](public/Prepositional%20Ambiguity.md)
 
 ## Vagueness
 Being vague forces the listener to infer the missing information

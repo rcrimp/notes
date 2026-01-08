@@ -2,12 +2,12 @@
 title: Surreal
 ---
 
-- I personally define the surreal distinct from [Absurdity](Absurdity.md)
+- I personally define the surreal distinct from [Absurdity](public/Absurdity.md)
 	- Surreal is silly fun
 	- Absurd is serious 
 - Surreal is as bizzare and unusual distortions of reality
 	- from the french "above reality"
-- [Absurdism](Absurdity.md)
+- [Absurdity](public/Absurdity.md)
 	- exaggeration to an illogical or incorrect extreme
 		- the extreme could be surreal
 

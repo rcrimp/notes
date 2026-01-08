@@ -6,7 +6,7 @@ title: Story Arc
 	- Beginning and End
 
 - Every story has 2 elements
-	- [Character](public/Character.md)
+	- [[public/Character]]
 	- Goal / objective / task
 
 - Procces involving character(s) and their (respective) goal(s)
@@ -17,7 +17,7 @@ title: Story Arc
 		1. obstacle gets bigger [[Escalation]]
 		2. overcome the obstacle
 	3. Ending
-		1. [Goal Based Ending](Goal%20Based%20Ending.md)
+		1. [Goal Based Ending](public/Goal%20Based%20Ending.md)
 
 - Platform 
 - Problem  / Introducing the wolf  

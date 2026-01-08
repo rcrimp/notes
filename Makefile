@@ -1,4 +1,4 @@
-.DEFAULT_GOAL := serve
+.DEFAULT_GOAL := test
 
 help: ## Show all Makefile targets
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
@@ -28,5 +28,17 @@ public-only: # builds the site with public files
    && hugo serve \
 
 serve:
+	hugo serve
+
+# Makefile:34: *** missing separator.  Stop.
+test:
+	rm -rf ./content/*
+	cp -r ~/Documents/Notes/public ./content/
+	cp ~/Documents/Notes/_index.md ./content/
+	cp ~/Documents/Notes/now.md ./content/
+	python3 frontmatter_fixer.py
+	python3 link_fixer.py
+	mkdir -p static data
+	~/go/bin/hugo-obsidian -input=content -output=data -index=true -root=.
 	hugo serve
 

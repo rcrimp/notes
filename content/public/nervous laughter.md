@@ -12,7 +12,7 @@ for several reasons
 - polite laughter laughing at employers bad joke
 
 An attempt to resolve social tension can be performed by someone feeling low status (embarrassed, judged, inferior, ...)
-This is not laughter in response to amusement but a shortcut to [Relief Theory](Relief%20Theory.md).
+This is not laughter in response to amusement but a shortcut to [Relief Theory](public/Relief%20Theory.md).
 Trying to bring about one of the effects of tension release without actually releasing the tension. Smoke without fire.
 
 Laughing intentionally at one's own embarrassment frequently enough may can cause a regular habit to form where one laughs automatically when an embarrassing event occurs 

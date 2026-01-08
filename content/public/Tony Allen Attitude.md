@@ -7,7 +7,7 @@ nuts and bolts of standup
 history: village idiot -> contemporary spoken word
 deconstruction: art + attitude of various performers
 
-[Secrets to Comedy](Secrets%20to%20Comedy.md)
+[Secrets to Comedy](public/Secrets%20to%20Comedy.md)
 
 Juxtaposition of you personality facets
 

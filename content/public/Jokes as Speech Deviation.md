@@ -23,21 +23,21 @@ The best example was when she was 4 year old, and she told daddy that while he w
 
 ## Unintentional blunder
 - Unintentional speech blunders
-	- [[spoonerism]]
-	- [Malapropism](Malapropism.md)
+	- [spoonerism](public/spoonerism.md)
+	- [Malapropism](public/Malapropism.md)
 	- Cacography
 	- Freudian slips
-	- Pure [Nonsense](Nonsense.md)
+	- Pure [Nonsense](public/Nonsense.md)
 Famous blundererers
 	- Yogi Berra
 	- Samuel Goodwyn
 	- Boyle Roche
 	- George W. Bush
-	- Irish Bulls [Irish Bull](Irish%20Bull.md)
+	- Irish Bulls [Irish Bull](public/Irish%20Bull.md)
 
 ## Intentional creative
 - Using a pre-existing word to describe an alien concept.
-	- [Metaphorisation](Metaphorisation.md)
+	- [Metaphorisation](public/Metaphorisation.md)
 
 Whether unintentionally calling your teacher Mum or intentionally calling your teacher a cunt, it is a deviation from the conventions which govern speech (more broadly it’s a deviation from social norms, but this is a note on verbal jokes not practical jokes). Calling your teacher Mum or cunt is surprising, and potentially amusing to the right audience.
 

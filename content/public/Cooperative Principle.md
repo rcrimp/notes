@@ -38,7 +38,7 @@ Alternatively
 - Irony and Metaphor break the maxim of Quality as "literal" mis truths
 - Some believe that all verbal jokes flout (at least one of) the 4 maxims 
 - But flouting a maxims isn't always a joke
-> From a pragmatic point of view, the cause of funniness of verbal jokes is the manipulation of [Implicature](Implicature.md) and [Entailment](Entailment.md). The speaker deliberately violates or flouts Grice's conversational maxims to create unexpected or non-natural entailment - Delia Chiaro
+> From a pragmatic point of view, the cause of funniness of verbal jokes is the manipulation of [Implicature](public/Implicature.md) and [[Entailment]]. The speaker deliberately violates or flouts Grice's conversational maxims to create unexpected or non-natural entailment - Delia Chiaro
 - Break a maxim to implicate. 
 - 
 - Implicature
@@ -46,12 +46,12 @@ Alternatively
 - Implication
 	- - assumptions actually inferred. Possibly accurate or inaccurate.
 
-[Jokes in Conversation](Jokes%20in%20Conversation.md)
+[Jokes in Conversation](public/Jokes%20in%20Conversation.md)
 
 If you're being deliberately uncooperative in conversation, you're seen to be witty. i.e. Lee Mack. Intentionally misunderstanding for comedic effect.
 
-[Pull-back-and-reveal](Pull-back-and-reveal.md) jokes intentionally mislead
-usually insufficient quantity, forcing the listener to make a [Presupposition](Presupposition.md)
+[Pull-back-and-reveal](public/Pull-back-and-reveal.md) jokes intentionally mislead
+usually insufficient quantity, forcing the listener to make a [Presupposition](public/Presupposition.md)
 
 Quantity  
 Asbestos free cereal  

@@ -12,7 +12,7 @@ Norm violation
 2 interesting attributes
 (similar to paradox)
 Human desire to return find congruence
-to assimilate the disparate elemts into harmony [Cooperative Principle](Cooperative%20Principle.md)
+to assimilate the disparate elemts into harmony [Cooperative Principle](public/Cooperative%20Principle.md)
 - create missing data to validate
 - invalidating the first proposition
 

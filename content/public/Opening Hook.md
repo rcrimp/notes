@@ -4,7 +4,7 @@ title: Opening Hook
 
 - Spoiling the ending does not ruin the story
 	- Counter intuitively it makes the story more engaging
-	- [[Spoiler Paradox]]
+	- [Spoiler Paradox](public/Spoiler%20Paradox.md)
 - Stories should be driven by a clear premise
 	- intriguing, interesting, event boring...
 - Maybe the hook is the entire story abridged

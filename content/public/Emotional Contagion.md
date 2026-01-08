@@ -27,7 +27,7 @@ an adult will see through false positivity
 ## Comedian Energy
 As a comedian, your role is make the audience happy.
 A happy person laughs easier, laughing makes one feel happier.
-[Self confidence correlates with humor](Self%20confidence%20correlates%20with%20humor.md)
+[Self confidence correlates with humor](public/Self%20confidence%20correlates%20with%20humor.md)
 
 Energy of the performer is matched by the audience
 When Marea is loud and proud the audience reflects that.

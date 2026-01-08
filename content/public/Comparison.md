@@ -4,8 +4,8 @@ title: Comparison
 # Comparison
 
 
-[New assocation](New%20assocation.md) between disperate concepts
-[Reframing](Reframing.md) a concept as something else.
+[New assocation](public/New%20assocation.md) between disperate concepts
+[Reframing](public/Reframing.md) a concept as something else.
 
 ## Types
 - Metaphorical - similar essence
@@ -16,7 +16,7 @@ title: Comparison
 	- Analogy Backfire
 
 ## Linguistic structures
-- [Parallelism](Parallelism.md)
+- [Parallelism](public/Parallelism.md)
 - Analogy?
 - Simile
 - Metaphor

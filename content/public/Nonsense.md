@@ -3,7 +3,7 @@ title: Nonsense
 ---
 Nonsense
 
-[Irish Bull](Irish%20Bull.md)
+[Irish Bull](public/Irish%20Bull.md)
 
 1. nonsense in Ludwig Wittgenstein / Lewis Carroll
 2. surreal humour 

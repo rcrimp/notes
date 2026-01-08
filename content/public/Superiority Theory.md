@@ -4,13 +4,13 @@ title: Superiority Theory
 # Superiority Theory
 Superiority related to other forms of hostility
 derision, mockery, ridicule
-[Roast Jokes](Roast%20Jokes.md)
-[Joke Target](Joke%20Target.md)
-[Aggresion](Aggresion.md)
-[Benign Violation theory](Benign%20Violation%20theory.md)
-To laugh at others misfortune is [Schadenfreude](Schadenfreude.md).
+[Roast Jokes](public/Roast%20Jokes.md)
+[Joke Target](public/Joke%20Target.md)
+[Aggresion](public/Aggresion.md)
+[Benign Violation theory](public/Benign%20Violation%20theory.md)
+To laugh at others misfortune is [Schadenfreude](public/Schadenfreude.md).
 
-Positive self evaluation although there is [Superiority in Self Deprecation](Superiority%20in%20Self%20Deprecation.md)
+Positive self evaluation although there is [Superiority in Self Deprecation](public/Superiority%20in%20Self%20Deprecation.md)
 
 ## Cruel Laughter 
 Evidence suggests that the dominant form of laughter in pre-civilization socities is cruel-laughter, being amused by acts of cruelty.
@@ -29,7 +29,7 @@ Superiority Theory may have once been a comprehensive explanation for laughter, 
 
 However, it is important to consider the inverse: feeling inferior prevents laughter. One is very unlikely to laugh if they feel inferior, if they feel threatened, challenged, or if their social status is brought into question.
 
-It's easy to conclude that a neutral (or superior) disposition is required for laughter to take place. There are exceptions, for example [nervous laughter](nervous%20laughter.md)
+It's easy to conclude that a neutral (or superior) disposition is required for laughter to take place. There are exceptions, for example [nervous laughter](public/nervous%20laughter.md)
 
 ## History
 Plato and Aristotle both agreed that laughter is the emotion of scorn

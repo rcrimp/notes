@@ -21,17 +21,17 @@ I sincerely believe that a deep understanding "jokes" from a cognitive/pragmatic
 > Laughter results from a pleasant psychological shift
 
 ### Social and psychological
-1. [Surprise Theory](Surprise%20Theory.md) is essential to most humorous events.
-2. [Superiority Theory](Superiority%20Theory.md) is strongly related to humor in social situations, but isn't essential or sufficient for laughter.
-3. [Relief Theory](Relief%20Theory.md) laughter arises from the emotional transition from fear/tension to relief/release.
+1. [Surprise Theory](public/Surprise%20Theory.md) is essential to most humorous events.
+2. [Superiority Theory](public/Superiority%20Theory.md) is strongly related to humor in social situations, but isn't essential or sufficient for laughter.
+3. [Relief Theory](public/Relief%20Theory.md) laughter arises from the emotional transition from fear/tension to relief/release.
 
 ### Cognitive
-4. [Incongruity Theory](Incongruity%20Theory.md)
-5. [Incongruity Resolution Theory](Incongruity%20Resolution%20Theory.md) Similar to Relief theory but rather a cognitive transition from incongruity to resolution. 
+4. [Incongruity Theory](public/Incongruity%20Theory.md)
+5. [Incongruity Resolution Theory](public/Incongruity%20Resolution%20Theory.md) Similar to Relief theory but rather a cognitive transition from incongruity to resolution. 
 6. Kant is often credited with describing incongruity first, although his description of jokes better fits Anti Humor
-7. [Getting the Joke MAIN](Getting%20the%20Joke%20MAIN.md)
+7. [Getting the Joke MAIN](public/Getting%20the%20Joke%20MAIN.md)
 8. [[Semantic Script Theory]]
-2. [General Theory of Verabl Humor](General%20Theory%20of%20Verabl%20Humor.md)
+2. [[General Theory of Verabl Humor]]
 
 ### Cognitive Linguistics
 - Semantics
@@ -39,12 +39,12 @@ I sincerely believe that a deep understanding "jokes" from a cognitive/pragmatic
 - Pragmatics
 	- language in context. I.e. Deixis: ‘me’ ‘here’ ‘now’ (person, place, time)
 	- Inferring from outside the literal text.
-1. Flouting the Gricean [Cooperative Principle](Cooperative%20Principle.md) Being uncooperative in conversation.
+1. Flouting the Gricean [Cooperative Principle](public/Cooperative%20Principle.md) Being uncooperative in conversation.
 2. 1985 Victor Raskin. SSTH Semantic Script Theory of Humor. Forced Reinterpretation.
 3. 1991 Raskin and Attardo. GTVH General Theory of Verbal Humor.  Extension of SSTH to include jokes more jokes. 
 4. 1994 Attardo distinguishes between Verbal Jokes and Referential Jokes
 
-4. 2010 [Benign Violation theory](Benign%20Violation%20theory.md) - A. Peter McGraw and Caleb Warren https://leeds-faculty.colorado.edu/mcgrawp/benign_violation_theory.html
+4. 2010 [Benign Violation theory](public/Benign%20Violation%20theory.md) - A. Peter McGraw and Caleb Warren https://leeds-faculty.colorado.edu/mcgrawp/benign_violation_theory.html
 	- variant of incongruity (expectation violation)
 	- 
 	- psychological distance
@@ -52,7 +52,7 @@ I sincerely believe that a deep understanding "jokes" from a cognitive/pragmatic
 5. 2019 Jared Volle - playfully inappropriate conflict https://creativestandup.com/how-to-write-stand-up-comedy-jokes/
 
 ## unexplored ideas
-- [Misattribution Theory of Humor](Misattribution%20Theory%20of%20Humor.md)
+- [Misattribution Theory of Humor](public/Misattribution%20Theory%20of%20Humor.md)
 - Lord Shaftesbury, An Essay on the Freedom of Wit and Humor 1709
 - Nietzsche’s oppositional transition between extremities. Treating death, suffering or purposeless as not trivial but delightful.
 - Being rude in expectation of politeness takes to stabilise into 100% stable.
@@ -70,9 +70,9 @@ I sincerely believe that a deep understanding "jokes" from a cognitive/pragmatic
 	- Conceptual adjustment
 
 
-[Self confidence correlates with humor](Self%20confidence%20correlates%20with%20humor.md)
+[Self confidence correlates with humor](public/Self%20confidence%20correlates%20with%20humor.md)
  
-[Expressing Vulnerability in Jokes](Expressing%20Vulnerability%20in%20Jokes.md)
+[Expressing Vulnerability in Jokes](public/Expressing%20Vulnerability%20in%20Jokes.md)
 
 
 ### Humor as a Human Trait

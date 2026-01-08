@@ -2,7 +2,7 @@
 title: Aggresion
 ---
 # Aggression
-contrasted with [Affiliative](Affiliative.md)
+contrasted with [[Affiliative]]
 
 Konrad Lorenz describes "controlled form of aggression"
 

@@ -27,5 +27,3 @@ they wished that both of their children would become comedians
 
 Created: 2021-10-07 02:23:39   ---   Updated: 2021-10-07 02:23:39
 
-[https://keep.google.com/#NOTE/1633573411830.1324530557](https://keep.google.com/#NOTE/1633573411830.1324530557)
-

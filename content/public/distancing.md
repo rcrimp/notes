@@ -3,7 +3,7 @@ title: distancing
 ---
 # Distancing
 Detach the joke subject from something serious.
-Relates to the [Benign Violation theory](Benign%20Violation%20theory.md)
+Relates to the [Benign Violation theory](public/Benign%20Violation%20theory.md)
 
 > “Tragedy plus time equals comedy.” - Steve Allen
 
@@ -15,7 +15,7 @@ Relates to the [Benign Violation theory](Benign%20Violation%20theory.md)
 	- wait at least 7 years for a tragedy
 2. Geographic distance
 	- Different country
-	- A [Joke Target](Joke%20Target.md) who isn't in the room.
+	- A [Joke Target](public/Joke%20Target.md) who isn't in the room.
 3. Severity
 	- Tragedy vs mishap
 4. Mood / Persona

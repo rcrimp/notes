@@ -11,4 +11,4 @@ title: Secret(s) to Comedy
 3. Timing
 4. Repetition
 5. Experience
-6. [Being Present](Being%20Present.md)
+6. [Being Present](public/Being%20Present.md)

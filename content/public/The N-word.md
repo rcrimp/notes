@@ -22,7 +22,7 @@ Rolling Stones Top-5 comedians of all time (2017)
 	- But it has a powerful effect
 > "Are there any Niggers here tonight" 
  
-[Lenny Bruce](Lenny%20Bruce.md)
+[Lenny Bruce](public/Lenny%20Bruce.md)
 
 ## George Carlin
 "Context"

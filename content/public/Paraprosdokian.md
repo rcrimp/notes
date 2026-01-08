@@ -26,7 +26,7 @@ title: Paraprosdokian
 ### 1. It's Intentional
 - In speech epanorthosis corrects something unintentional
 - Paraprosdokian is an intentional correction
-	- strong form of [Misdirection](Misdirection.md) for humorous effect
+	- strong form of [Misdirection](public/Misdirection.md) for humorous effect
 
 ### 2. The miscommunication isn't overt
 - In epanorthosis the incorrect word(s) are explicitly invalidated
@@ -43,7 +43,7 @@ title: Paraprosdokian
 > I miss my wife's cooking - as often as I can”
 — Henny Youngman
 
-- Since paraprosdokian is humourous, the amendment usually involves irony, absurdity, taboo, or some other implicature. But sometimes the amendment merely invalidates the initial interpretation [Forced Reinterpretation](Forced%20Reinterpretation.md).
+- Since paraprosdokian is humourous, the amendment usually involves irony, absurdity, taboo, or some other implicature. But sometimes the amendment merely invalidates the initial interpretation [Forced Reinterpretation](public/Forced%20Reinterpretation.md).
 - In paraprosdokian an independent clause is followed be a dependent clause. 
 - To achieve the effect both the grammar and delivery should indicate that the first clause has ended, that it is independent and complete. The second clause is then unexpected, amplifying the surprise of the forced reinterpretation.
 - Bait and switch https://tvtropes.org/pmwiki/pmwiki.php/Main/BaitAndSwitchComment
@@ -51,10 +51,10 @@ title: Paraprosdokian
 ## More
 - Consecutive Paraprosdokian
 	- sustained misunderstanding
-	- [The Simpsons consecutive misdirections](The%20Simpsons%20consecutive%20misdirections.md)
-	- [An Irish Tale](An%20Irish%20Tale.md)
+	- [The Simpsons consecutive misdirections](public/The%20Simpsons%20consecutive%20misdirections.md)
+	- [An Irish Tale](public/An%20Irish%20Tale.md)
 - Garden path sentence
-	- [Garden path sentence](Garden%20path%20sentence.md)
+	- [Garden path sentence](public/Garden%20path%20sentence.md)
 
 ## Examples
 

@@ -12,7 +12,7 @@ title: be specific, be vague
 - Imply something using “creative language”
 - Include sub-text, subtlety and sophistication
 - Put images into their mind without saying it precisely
-- [Euphemism](Euphemism.md)
+- [Euphemism](public/Euphemism.md)
 	- polite way to refer to a taboo
-- [Innuendo](Innuendo.md)
+- [Innuendo](public/Innuendo.md)
 	- allude to something sexual

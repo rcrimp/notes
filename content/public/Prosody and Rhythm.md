@@ -9,7 +9,7 @@ title: Prosody and Rhythm
 # Prosody and Rhythm
 All comedy is about rhythm, comedians often talk about "timing" being essential, but there's so much more to the prosody of perfect joke delivery than just timing. The anticipation, the momentum, the tension, are all vital to good comedy, and are all controlled with rhythm.
 
-[Finding your rhythm](Finding%20your%20rhythm.md) (Comedy Without Errors)
+[Finding your rhythm](public/Finding%20your%20rhythm.md) (Comedy Without Errors)
 
 ## musical comedy 
 Music provides the perfect substrate for comedic rhythm, it's so perfect many professional comedians consider musical comedy to be cheating, but they're clearly just envious of those who can sing.
@@ -53,9 +53,9 @@ Maria Bamford
 James Acaster taught me that a funny delivery is vastly more important
 Tim Vine proves this too
 
-[Andy Daly](Andy%20Daly.md)
+[Andy Daly](public/Andy%20Daly.md)
 
-[[Poetic Metre]]
+[Poetic Metre](public/Poetic%20Metre.md)
 
 ### Daniel Kitson ???
 > Now, even the most ardent trance music fan must see that there’s a time and a place for trance music and it may not be in the 4:32 train from Sheffield to Norridge with sunlight streaming through the window surrounded by pensioners and a family of four, but apparently not, he’s like, NO WAY, THIS IS THE SOUNDTRACK TO MY LIFE I LIVE IT LIKE I LOVE IT, SUCK IT UP GRANDAD COS I’M COMING UP LOUD!!

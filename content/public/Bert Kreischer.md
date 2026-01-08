@@ -7,10 +7,10 @@ title: "Bert Kreischer"
 - arc
 - plant something at the start
 	- "plant a sapling to harvest at the end"
-	- [Setups and Payoffs](Setups%20and%20Payoffs.md)
-	- [callback](callback.md)
-	- [Story Reincorporation](Story%20Reincorporation.md)
-- [Story Obvious End](Story%20Obvious%20End.md)
+	- [Setups and Payoffs](public/Setups%20and%20Payoffs.md)
+	- [callback](public/callback.md)
+	- [Story Reincorporation](public/Story%20Reincorporation.md)
+- [Story Obvious End](public/Story%20Obvious%20End.md)
 - Learn the story, then tell the story drunk
 	- you'll fuck up the story
 	- as you fix it, it'll become better
@@ -27,4 +27,4 @@ title: "Bert Kreischer"
 		- throw aways inside story
 	- Writing story with emotion
 		- "I was scared as fuck"
-	-[Christopher Titus](Christopher%20Titus.md)
+	-[Christopher Titus](public/Christopher%20Titus.md)

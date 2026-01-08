@@ -2,8 +2,8 @@
 title: Benign Violation theory
 ---
 # Benign Violation theory
-[distancing](distancing.md)
-[Euphemism](Euphemism.md)
+[distancing](public/distancing.md)
+[Euphemism](public/Euphemism.md)
 
 > blunder or ugliness that does not cause pain or disaster -- Aristotle
 

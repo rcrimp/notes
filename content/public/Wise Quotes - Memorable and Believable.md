@@ -9,7 +9,7 @@ Why do certain linguistic devices make an idea:
 
 The oral story telling tradition of ancient wisdom used
 Rhythm and rhyme to help preserve plot-line for a much longer time
-But also higher level narrative structures like [Allegory](Allegory.md)
+But also higher level narrative structures like [Allegory](public/Allegory.md)
 
 Contrary, a quote which is grammatically incorrect and/or doesn't scan well, is much likely to fell true.
 A quality heuristic
@@ -20,7 +20,7 @@ Profound understanding
 Easier to remember if they rhyme.
 Seem more true if they rhyme (Rhyme-as-reason effect)
 
-[Daniel Dennett Deepity](Daniel%20Dennett%20Deepity.md)
+[Daniel Dennett Deepity](public/Daniel%20Dennett%20Deepity.md)
 
 The Bible is full of rhyme and alliteration
 but also zeugma, simile, hyperbole, paradox, 
@@ -31,7 +31,7 @@ Adage - concise, memborable, aphorism. truth derived from experience.
 Cliche - overused to the point of annoyance.
 Epigram - satirical aphorism
 Maxim - fundamental principle (usually moral)
-[Allegory](Allegory.md) - metaphorical truth
+[Allegory](public/Allegory.md) - metaphorical truth
 
 I want Recognition and Relatability.
 My own thoughts articulated with clarity.
@@ -56,8 +56,8 @@ usually reframing
 ### Implication
 
 ### Counter-intuitive
-[Counter intuitive](Counter%20intuitive.md)
-[Paradox](Paradox.md)
+[Counter intuitive](public/Counter%20intuitive.md)
+[Paradox](public/Paradox.md)
 
 ### Analogy
 > you sow what you reap' (get what you pay for)

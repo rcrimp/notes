@@ -2,9 +2,9 @@
 title: Counter intuitive
 ---
 # Counter Intuitive
-Similar to [Paradox](Paradox.md) but the conflict or [contradiction](contradiction.md) in paradox is stronger, often times unresolvable. A counter intuitive notion can be resolved and makes sense even if your intuition is misleading.
+Similar to [Paradox](public/Paradox.md) but the conflict or [contradiction](public/contradiction.md) in paradox is stronger, often times unresolvable. A counter intuitive notion can be resolved and makes sense even if your intuition is misleading.
 
-Counter intuitive notions can be conveyed in a variety of tropes and schemes. The following is the same idea however 1 is an oxymoron and 2 is [Parallelism](Parallelism.md).
+Counter intuitive notions can be conveyed in a variety of tropes and schemes. The following is the same idea however 1 is an oxymoron and 2 is [Parallelism](public/Parallelism.md).
 
 1. Tough love 
 2. Be cruel to be kind - Shakespeare
@@ -31,9 +31,9 @@ Not Parallel
 > Clean cuts heal faster and scar less.
 
 > Inflammable and flammable mean the same thing.
-[Strengthen the undamaged parts](Strengthen%20the%20undamaged%20parts.md)
-[Ben Franklin effect](Ben%20Franklin%20effect.md)
-[Free Washing Machine](Free%20Washing%20Machine.md)
+[Strengthen the undamaged parts](public/Strengthen%20the%20undamaged%20parts.md)
+[Ben Franklin effect](public/Ben%20Franklin%20effect.md)
+[Free Washing Machine](public/Free%20Washing%20Machine.md)
 
 Butchery: cheap offal is discarded scraps, expensive offal is luxury
 

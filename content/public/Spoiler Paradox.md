@@ -9,4 +9,4 @@ title: Spoiler Paradox
 - You can't spoil Romeo and jukiet because everyone knows at least a summary of the plot, and yet people still watch it  
   - Possibly relates to anchoring   
 - The most popular stories told be people are parables. The boy who cried wolf. Everyone knows the ending, but we still tell them anyway.  
-- [Parable](Parable.md)
+- [Parable](public/Parable.md)

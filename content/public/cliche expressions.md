@@ -2,11 +2,11 @@
 title: cliche expressions
 ---
 # cliche expressions
-[Idiom thesaurus](Idiom%20thesaurus.md)
+[Idiom thesaurus](public/Idiom%20thesaurus.md)
 
 cliche
 phrase
-[proverb](proverb.md)
+[[proverb]]
 idiom
 adage
 motto

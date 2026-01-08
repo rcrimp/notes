@@ -14,13 +14,13 @@ There are many different "types" of paradox
 - Quine's Classification (1962)
 	1. Veridical - 
 		1. Something true which feels false
-			1.  [Counter intuitive](Counter%20intuitive.md) 
+			1.  [Counter intuitive](public/Counter%20intuitive.md) 
 	2. Falsidical
 		1. Something false which is proven true
 			1. 1 == 2 proof
 			2. Zeno's paradox
-			3. [Meno’s Paradox](Meno’s%20Paradox.md)
-			4. [Paralogical](Paralogical.md) 
+			3. [Meno’s Paradox](public/Meno’s%20Paradox.md)
+			4. [Paralogical](public/Paralogical.md) 
 	3. Antinomy
 		1. a true logical paradox
 	4. Dialetheism
@@ -28,7 +28,7 @@ There are many different "types" of paradox
 
 ## Rhetorical Paradox
 - The one we are most interested in is the rhetorical paradox.
-- A [contradiction](contradiction.md) that conveys a truth, usually some deep truth.
+- A [contradiction](public/contradiction.md) that conveys a truth, usually some deep truth.
 - Ambiguity / Polysemy
 	- A cynic knows the price of everything and the value of nothing. - Oscar Wilde
 	- Since many words have many senses it’s possible for a sentence to contradict itself in one sense, but not in another
@@ -38,7 +38,7 @@ There are many different "types" of paradox
 	- Logically false according to the literal semantics, but through abstract thinking a figurative truth may be found.
 	- This truth feels deep as it is concealed beneath the direct semantics.
 	- Taken physically, this is clearly false, but truth can be found if you consider emotional or spiritual strength.
-- First the literal interpretation is rejected, then an abstract or polysemous meaning is found. We say there has been a [Forced Reinterpretation](Forced%20Reinterpretation.md). The turn isn’t sharp like funny jokes, but subtle like many examples of [metalinguistic negation](metalinguistic%20negation.md).
+- First the literal interpretation is rejected, then an abstract or polysemous meaning is found. We say there has been a [Forced Reinterpretation](public/Forced%20Reinterpretation.md). The turn isn’t sharp like funny jokes, but subtle like many examples of [metalinguistic negation](public/metalinguistic%20negation.md).
 
 - Less is more - Robert browning 
 - I am deeply shallow
@@ -100,12 +100,12 @@ Relies on an ambiguous word used in two different senses to form a coherent cont
 > The (political) right is wrong
 
 ## Anthithesis
-[Paradox Antithesis](Paradox%20Antithesis.md)
+[Paradox Antithesis](public/Paradox%20Antithesis.md)
 - All women become like their mothers. That is their tragedy.
 - No man does, and that is his. - Oscar Wilde
 
 ## Chiasmus
-The following is both a pun-paradox and [Chiasmus](Chiasmus.md), where Chiasmus is a parallel structure but it is NOT antithesis, as it lacks a sense of opposing semantics. 
+The following is both a pun-paradox and [Chiasmus](public/Chiasmus.md), where Chiasmus is a parallel structure but it is NOT antithesis, as it lacks a sense of opposing semantics. 
 
 > God is greater than nothing, but nothing is greater than God
 
@@ -113,7 +113,7 @@ The following is both a pun-paradox and [Chiasmus](Chiasmus.md), where Chiasmus 
 > We live in an age when unnecessary things are our only necessities
 
 ## Paraprosdokian
-[Paraprosdokian](Paraprosdokian.md)
+[Paraprosdokian](public/Paraprosdokian.md)
 
 > In this world there are only two tragedies. One is not getting what one wants, and the other is getting it - Oscar Wilde
 
@@ -166,4 +166,4 @@ The misdirection of "two tragedies" leads one to expect to 2 distinct and indepe
 ## Misc.
 - Thanks to the interstate highway system, it is now possible to travel across the country from coast to coast without seeing anything - Charles Kuralt
 - Meetings are indispensable when you don’t want to do anything - John Kenneth Galbraith
-- [Rule following paradox](Rule%20following%20paradox.md)
+- [Rule following paradox](public/Rule%20following%20paradox.md)

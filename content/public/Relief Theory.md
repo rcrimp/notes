@@ -13,7 +13,7 @@ In 1878, Nietzsche described laughter occurring when fear (of death) transitions
  1928 - Freud (and Herbert Spencer) described laughter in the more practical light of social tension to relief. Nervousness, Hostility, awkward
 sex and hostility were the only drives of repression that led to laughter
 
-hostile jokes of cruelty [Superiority Theory](Superiority%20Theory.md)
+hostile jokes of cruelty [Superiority Theory](public/Superiority%20Theory.md)
 obscene jokes of exposure 
 
 Freud also regarded humor as a defense mechanism (1928)
@@ -37,7 +37,7 @@ Build tension and release.
 sublimation, liberation
 releases one from social inhibitions, conventions, laws
 
-[Taboo](Taboo.md)
+[Taboo](public/Taboo.md)
 
 If the premise builds tension, suspense, anticipation, then the punchline will have more impact
 You don’t have to jump to the punchline, tease it out sometimes. You’re in control

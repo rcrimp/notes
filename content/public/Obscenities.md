@@ -2,24 +2,24 @@
 title: Obscenities
 ---
 # Obscenities
-Using vulgar language can be [Surprising](Surprise%20Theory.md)
+Using vulgar language can be [Surprise Theory](public/Surprise%20Theory.md)
 
 Don’t shock too much, they can’t gasp and laugh
 Swearing is a cheap and easy punchline
 Don’t overuse this, it loses impact fast
 
 Some swear words are funnier than others
-Creative language like [Euphemism](Euphemism.md) can be funnier
+Creative language like [Euphemism](public/Euphemism.md) can be funnier
 
-The funniest swear words involve [Plosives Hard Consonants](Plosives%20Hard%20Consonants.md)
+The funniest swear words involve [Plosives Hard Consonants](public/Plosives%20Hard%20Consonants.md)
 	Cock, Cunt, Fuck, Dick, Shit, Tits...
 	
-[Lenny Bruce](Lenny%20Bruce.md) convicted for obscenity in 1964
-George Carlin was arrested in 1972 [Seven Dirty Words](Seven%20Dirty%20Words.md)
+[Lenny Bruce](public/Lenny%20Bruce.md) convicted for obscenity in 1964
+George Carlin was arrested in 1972 [Seven Dirty Words](public/Seven%20Dirty%20Words.md)
 Stewart Lee accused of blasphemy by Christian Voice, rejected in High Court in 2005
 Frankie Boyle was called racist by the Daily Mirror in 2011. He sued for libel, and won 50,000 GBP in damages, all donated to charity.
 
-[The N-word](The%20N-word.md)
+[The N-word](public/The%20N-word.md)
 
 ## WHAT NOT TO SWEAR: THE ACCEPTABILITY OF WORDS IN BROADCASTING, 2010
 https://www.bsa.govt.nz/research-and-reports/research/all-research/what-not-to-swear-the-acceptability-of-words-in-broadcasting-2010/

@@ -36,8 +36,8 @@ title: "Duality"
 	- both concepts are incompatible (X != Y)
 - Conceptual Duality <-- is this a new idea?
 	- Containing two mutually exclusive parts
-	- [Wave-Particle paradox](Wave-Particle%20paradox.md)
-- [[distinction without a difference]] is a kind of [metalinguistic negation](metalinguistic%20negation.md)
+	- [[Wave-Particle paradox]]
+- [distinction without a difference](public/distinction%20without%20a%20difference.md) is a kind of [metalinguistic negation](public/metalinguistic%20negation.md)
 	- a disctinction BUT without a difference
 		- "but without" is a double negative
 			- here they re-enforce eachother

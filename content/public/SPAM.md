@@ -2,7 +2,7 @@
 title: SPAM
 ---
 
-- perfect example of both repetition and the [absurdity curve](absurdity%20curve.md)
+- perfect example of both repetition and the [absurdity curve](public/absurdity%20curve.md)
 - repetition to build and break expections
 
 > Well, there's

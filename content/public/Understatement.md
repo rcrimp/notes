@@ -5,16 +5,16 @@ title: Understatement
 - Typical of UK Humor
 - Diminish / Reduce / Undermine
 - Modesty / Polite / Ironic / Comedic
-- [Damned with faint praise](Damned%20with%20faint%20praise.md)
-- [Backhanded compliment](Backhanded%20compliment.md)
+- [Damned with faint praise](public/Damned%20with%20faint%20praise.md)
+- [Backhanded compliment](public/Backhanded%20compliment.md)
 
 ## diminutives
 Many understatements follow the form:
 It is ( just / only / maybe / kinda ) a ( little / tiny / bit / some ) … ( severe-thing )
 I only need some minor surgery, since it’s just a teeny-tiny brain tumor
 
-[Meiosis](Meiosis.md) - euphemistic understatement
-[Litote](Litote.md) - negating the opposite
+[Meiosis](public/Meiosis.md) - euphemistic understatement
+[Litote](public/Litote.md) - negating the opposite
 
 ## Comedic Examples
 > “How many stars are there in the milky way?   ... at least 12”

@@ -1,5 +1,5 @@
 
-[[Reframing]]
+[Reframing](public/Reframing.md)
 
 Reframe:Adolescent pubescent
 
@@ -32,6 +32,4 @@ Start making changes in your life
 
 
 Created: 2021-09-20 00:02:30   ---   Updated: 2021-09-23 03:08:28
-
-[https://keep.google.com/#NOTE/17c005fe136.a2111aea5880e256](https://keep.google.com/#NOTE/17c005fe136.a2111aea5880e256)
 

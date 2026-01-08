@@ -8,7 +8,7 @@ title: "Story Obvious End"
 	- in "The Machine" I repeat the refrain
 	- "Fuck that Bitch, this is Russia!"
 		- first time halfway through, second at the end
-		- [Story Reincorporation](Story%20Reincorporation.md)
+		- [Story Reincorporation](public/Story%20Reincorporation.md)
 - - https://www.youtube.com/watch?v=RjiPWiND7UU&t=22m11s
 	- people wanna know its over
 	- sex needs a climax

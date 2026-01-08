@@ -2,12 +2,12 @@
 title: Euphemism
 ---
 # Euphemism
-Referring to a [Taboo](Taboo.md) with polite & creative words
+Referring to a [Taboo](public/Taboo.md) with polite & creative words
 Conceal Obscene to appear Respectful / Inoffensive / Politically Correct / Comedic
 
-[Indirect language in culture](Indirect%20language%20in%20culture.md) - France and Mexico
+[Indirect language in culture](public/Indirect%20language%20in%20culture.md) - France and Mexico
 
-It's a kind of [Double Sense](Double%20Sense.md)
+It's a kind of [Double Sense](public/Double%20Sense.md)
 First meaning is either vague or innocent
 The second meaning is impolite
 

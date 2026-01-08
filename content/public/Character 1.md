@@ -39,5 +39,3 @@ Consistency vs changing tack.
 
 Created: 2022-02-08 08:32:35   ---   Updated: 2022-02-08 08:32:35
 
-[https://keep.google.com/#NOTE/17ed7d2d212.8d16de675e16a29d](https://keep.google.com/#NOTE/17ed7d2d212.8d16de675e16a29d)
-

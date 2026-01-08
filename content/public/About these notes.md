@@ -79,11 +79,11 @@ title: "About these Notes"
 - 🌱 [Digital Gardens](https://maggieappleton.com/garden-history)
 	- This direction of this project is ongoing, growing, and evolving naturally.
 - 🌲 [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
-- 📝 [How to Take Smart Notes](How%20to%20Take%20Smart%20Notes.md)
+- 📝 [How to Take Smart Notes](public/How%20to%20Take%20Smart%20Notes.md)
 	- atomic vs monolithic notes
 	- [Smart Notes](https://takesmartnotes.com/) 
 - Linking your thinking 
-- 🧠[Second Brain](Second%20Brain.md)
+- 🧠[Second Brain](public/Second%20Brain.md)
 	- [A comedian's experience with second brain](https://fortelabs.co/blog/using-digital-notes-for-stand-up-comedy/)
 	- C.O.D.E
 	- progressive summarization
@@ -118,7 +118,7 @@ title: "About these Notes"
 - rclone && rclonesync && crontab
 - syncthing
 ### Static site generation
-- [Running Quartz](Running%20Quartz.md)
+- [Running Quartz](public/Running%20Quartz.md)
 
 ## 📸 Snapshots
 - Dec 10 2025
@@ -136,7 +136,7 @@ title: "About these Notes"
 	- 📙 comedy material
 	- 📕 Comedy study notes
 
-![graph-2022-01-29-211628](graph-2022-01-29-211628.png)
+![[graph-2022-01-29-211628.png]]
 
 - June 19, 2021
 - 143 notes
@@ -144,7 +144,7 @@ title: "About these Notes"
 	- 🔵 Drafts
 	- 🔴 Comedy study notes
 
-![2022-06-20-snapshot](2022-06-20-snapshot.png)
+![[2022-06-20-snapshot.png]]
 
 ## Research
 

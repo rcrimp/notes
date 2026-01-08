@@ -13,5 +13,3 @@ Express yourself with only after you have obtained a well developed repertoire o
 
 Created: 2021-10-08 20:41:11   ---   Updated: 2021-10-09 01:45:31
 
-[https://keep.google.com/#NOTE/17c61a2e93e.ad60be6a04ae652c](https://keep.google.com/#NOTE/17c61a2e93e.ad60be6a04ae652c)
-

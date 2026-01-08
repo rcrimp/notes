@@ -6,8 +6,8 @@ Expectation to be polite and respectful.
 Break those expectations to be funny.
 
 The Sacred
-[Obscenities](Obscenities.md)
-[Euphemism](Euphemism.md)
+[Obscenities](public/Obscenities.md)
+[Euphemism](public/Euphemism.md)
 
 Irreverence
 Disrespectful
@@ -25,7 +25,7 @@ Inappropriate
 	1. Drugs, Tattoos, Alcohol, Self harm, Suicide, 
 	2. Theft, Scam, Deception, 
 	3. Abuse, Torture, Rape, Murder, Molestation, Pedophilia, Abduction, Slavery, Domestic Abuse, Child Labour, Police Brutality, Bestiality, Cannibalism, Animal Cruelty, eating meat, Circumcision, FGM
-5. [Self Identity](Self%20Identity.md)
+5. [Self Identity](public/Self%20Identity.md)
 6. Tragedy
 	1. Disaster
 		1. Disease, Earthquakes, Famine, Hurricanes, Drought, Floods, Accidental / Acts of God

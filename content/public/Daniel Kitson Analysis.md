@@ -4,10 +4,10 @@ title: Daniel Kitson Analysis
 # Daniel Kitson Stories
 - Lessons learned from daniel kitson's story telling shows.
 - Many of his jokes are: "entirely reliant on rhythm"
-	-  [Prosody and Rhythm](Prosody%20and%20Rhythm.md)
-- [Daniel Kitson - Live at TCFG 2002](Daniel%20Kitson%20-%20Live%20at%20TCFG%202002.md)
+	-  [Prosody and Rhythm](public/Prosody%20and%20Rhythm.md)
+- [Daniel Kitson - Live at TCFG 2002](public/Daniel%20Kitson%20-%20Live%20at%20TCFG%202002.md)
 - [[DK 05-02-05]]
-- [Daniel Kitson Stories](Daniel%20Kitson%20Stories.md)
+- [Daniel Kitson Stories](public/Daniel%20Kitson%20Stories.md)
 - [[Taking A Poo]]
 ## Speech Style
 Blend of two speech modes.

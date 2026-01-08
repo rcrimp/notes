@@ -10,17 +10,17 @@ These notes are about writing and performing comedy (advice, guides, tips, trick
 They are free form, playful, experimental, work-in-progress wiki style notes. Some were written years ago when I was younger and more embarrasing, but I think they still have value.
 
 - What I'm working on right [now](now.md)
-- Read more [About these notes](About%20these%20notes.md)
+- Read more [About these notes](public/About%20these%20notes.md)
 - An [archive](/public) of all notes
 
 ## Comedy Notes
-1. [Learning Comedy](Learning%20Comedy.md) 🎓
-2. [Practical Joke Writing](Practical%20Joke%20Writing.md) ✍️
-3. [Joke Structures](Linguistic%20Analysis.md) 📜 Linguistics, rhetoric, and style
-4. [Performance Techniques](Performance%20Techniques.md)  💃 Acting, clowning, improv 
-5. [Story Telling](Story%20telling.md) 📖 Narratology, plot, ...
-6. [How to MC](How%20to%20MC.md) 🎤 
-7. [Humor Theories](Humor%20Theories.md)  🧠 Philosophy, psychology, ... 
-8. [Alternative Comedy](Alternative%20Comedy.md) 🙃
-9. [Misc. Unsorted Notes](Misc%20Unsorted%20Notes.md) 📁
+1. [Learning Comedy](public/Learning%20Comedy.md) 🎓
+2. [Practical Joke Writing](public/Practical%20Joke%20Writing.md) ✍️
+3. [Linguistic Analysis](public/Linguistic%20Analysis.md) 📜 Linguistics, rhetoric, and style
+4. [Performance Techniques](public/Performance%20Techniques.md)  💃 Acting, clowning, improv 
+5. [Story telling](public/Story%20telling.md) 📖 Narratology, plot, ...
+6. [How to MC](public/How%20to%20MC.md) 🎤 
+7. [Humor Theories](public/Humor%20Theories.md)  🧠 Philosophy, psychology, ... 
+8. [Alternative Comedy](public/Alternative%20Comedy.md) 🙃
+9. [Misc Unsorted Notes](public/Misc%20Unsorted%20Notes.md) 📁
 

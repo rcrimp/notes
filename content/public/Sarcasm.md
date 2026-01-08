@@ -1,7 +1,7 @@
 ---
 title: Sarcasm
 ---
-- Separate from [Verbal Irony](Verbal%20Irony.md)
+- Separate from [Verbal Irony](public/Verbal%20Irony.md)
 	- Sarcasm is a sassy attitude
 	- Verbal irony is saying the opposite of what you mean
 	- Sometimes they're used simultaneously

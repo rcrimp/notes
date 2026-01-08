@@ -6,24 +6,24 @@ tag: section
 - 🆕 This is a relatively new section
 
 
-- [Anecdote vs Story](Anecdote%20vs%20Story.md)
-- [Why are stories so compelling](Why%20are%20stories%20so%20compelling.md)
+- [Anecdote vs Story](public/Anecdote%20vs%20Story.md)
+- [Why are stories so compelling](public/Why%20are%20stories%20so%20compelling.md)
 
 ## 📚 Reading
 - THE HERO WITH A THOUSAND FACES by Joseph Campbell
-	-  [Hero's Journey](Hero's%20Journey.md)
+	-  [Hero's Journey](public/Hero's%20Journey.md)
 - The Seven Basic Plots
-- [Science of Storytelling](Science%20of%20Storytelling.md)
-- [Unleash The Power of StoryTelling](Unleash%20The%20Power%20of%20StoryTelling.md)
+- [Science of Storytelling](public/Science%20of%20Storytelling.md)
+- [Unleash The Power of StoryTelling](public/Unleash%20The%20Power%20of%20StoryTelling.md)
 - The Story Telling Animal
 - [[How to Tell a Story - The Moth]]
 
 ## 🗣️ Great Story Tellers
-- [Daniel Kitson Analysis](Daniel%20Kitson%20Analysis.md)
-- [Mike Birbiglia](Mike%20Birbiglia.md)
-- [Bert Kreischer](Bert%20Kreischer.md)
-- [Christopher Titus](Christopher%20Titus.md)
-- [[Jeff Simmermon]]
+- [Daniel Kitson Analysis](public/Daniel%20Kitson%20Analysis.md)
+- [Mike Birbiglia](public/Mike%20Birbiglia.md)
+- [Bert Kreischer](public/Bert%20Kreischer.md)
+- [Christopher Titus](public/Christopher%20Titus.md)
+- [Jeff Simmermon](public/Jeff%20Simmermon.md)
 - Andrew Schulz
 	- I prefer "takes", so I do "takes" within a story.
 - Dan Carlin
@@ -32,25 +32,25 @@ tag: section
 		- linear is boring
 	- [https://jeff-simmermon.medium.com/this-ice-cream-will-heal-your-heartbreak-how-to-find-your-storys-north-star-b818f50250ab](https://jeff-simmermon.medium.com/this-ice-cream-will-heal-your-heartbreak-how-to-find-your-storys-north-star-b818f50250ab)
 - Brian Regan?
-- [David Sedaris](David%20Sedaris.md)
-- [Neil Gaiman](Neil%20Gaiman.md)
+- [David Sedaris](public/David%20Sedaris.md)
+- [Neil Gaiman](public/Neil%20Gaiman.md)
 - Learn from great screen writers.  
 	- David Mamet  
 	- Shane Black  
 
 ## Story Elements
-- First line is an [Opening Hook](Opening%20Hook.md)
+- First line is an [Opening Hook](public/Opening%20Hook.md)
 - Last line is a callback
-	- [Ending a Story](Ending%20a%20Story.md)
-	- [Story Reincorporation](Story%20Reincorporation.md)
+	- [Ending a Story](public/Ending%20a%20Story.md)
+	- [Story Reincorporation](public/Story%20Reincorporation.md)
 - Middle bit needs jokes
 
 
-- [Story Arc](Story%20Arc.md)
-- [Setups and Payoffs](Setups%20and%20Payoffs.md)
-- [Story Engagement](Story%20Engagement.md)
-- [Narrative Theme](Narrative%20Theme.md)
-- [Performing a Story](Performing%20a%20Story.md)
+- [Story Arc](public/Story%20Arc.md)
+- [Setups and Payoffs](public/Setups%20and%20Payoffs.md)
+- [Story Engagement](public/Story%20Engagement.md)
+- [Narrative Theme](public/Narrative%20Theme.md)
+- [Performing a Story](public/Performing%20a%20Story.md)
 - 
 
 ## Expanding a Story
@@ -75,7 +75,7 @@ tag: section
 	1. Character with an objective  
 	2. Crisis prevents objective
 	3. Resolution  objective
-		1. [Police 10-7 DIY tradie](Police%2010-7%20DIY%20tradie.md)
+		1. [[Police 10-7 DIY tradie]]
 - Pathos + Characters in crisis = audience in crisis
 - The resolution is relief for the character;
 - the resolution is relief for the audience too
@@ -89,7 +89,7 @@ tag: section
 3. Pathos: emotional investment: WHY YOU CARE!
 
 ## Advanced
-[Chiastic Story Structure](Chiastic%20Story%20Structure.md)
+[Chiastic Story Structure](public/Chiastic%20Story%20Structure.md)
 
 ## Large Scale Structure
 - Underdog
@@ -97,7 +97,7 @@ tag: section
 - Happily ever after
 - Tragedy
 - Comedy
-- Bathos -  [anticlimax](Antijoke.md)
+- Bathos -  [Antijoke](public/Antijoke.md)
 
 - Announcing what will happen next ""  
 	- replace any cliché phrase with originality  

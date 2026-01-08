@@ -18,4 +18,4 @@ title: Comedy Studies new ideas to sort
 	- Anecdotal - paragraph to pages?
 
 - Find Neil's notes
-- [Workshop Feedback](Workshop%20Feedback.md)
+- [Workshop Feedback](public/Workshop%20Feedback.md)

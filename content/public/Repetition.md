@@ -2,4 +2,4 @@
 title: "Repetition"
 ---
 
-[SPAM](SPAM.md)
+[SPAM](public/SPAM.md)

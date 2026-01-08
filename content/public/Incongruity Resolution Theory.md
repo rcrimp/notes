@@ -14,4 +14,4 @@ The resolution of the incongruity could be faulty logic like above, however a lo
 
 > another example.
 
-Freud's [Relief Theory](Relief%20Theory.md) is similar, except Relief Theory is described in terms of social tension resolving into release of tension. Incongruity resolution is confusion to coherence.
+Freud's [Relief Theory](public/Relief%20Theory.md) is similar, except Relief Theory is described in terms of social tension resolving into release of tension. Incongruity resolution is confusion to coherence.

@@ -5,13 +5,13 @@ title: Reframing
 Incongruity - incompatible
 Analogy - associations, connection
 
-1. [Foregrounding](Foregrounding.md) - Emphasizing a concept in it's context.
+1. [Foregrounding](public/Foregrounding.md) - Emphasizing a concept in it's context.
 2. Reframe (Recontextualise) - Framing one concept as another (changing context)
-3. [Reversal Inversion Transposition](Reversal%20Inversion%20Transposition.md) - swapping two concepts into each others contexts. (Far Side cartoons)
-4. [Defamiliarization](Defamiliarization.md)
+3. [Reversal Inversion Transposition](public/Reversal%20Inversion%20Transposition.md) - swapping two concepts into each others contexts. (Far Side cartoons)
+4. [Defamiliarization](public/Defamiliarization.md)
 
 Devices and schemes?
-- [Metaphor](Metaphor.md)
+- [Metaphor](public/Metaphor.md)
 - analogy
 - contiguity
 - Metalinguistic negation
@@ -19,17 +19,17 @@ Devices and schemes?
 ## Lexical Level
 at the word level
 
-Combining lexemes [Portmanteau](Portmanteau.md)
+Combining lexemes [Portmanteau](public/Portmanteau.md)
 Divide lexesmes (studying = student dying) culture
 
-Redefining existing abbreviations [Backronym](Backronym.md)
+Redefining existing abbreviations [Backronym](public/Backronym.md)
 Defining new abbreviations, usually acronyms that can be pronounced
 
 ## Re-describing
 X ... which I call ...Y
 I play magic the gathering ... which is another way of saying ... I'm single
 
-[[X is Y for Z]]
+[X is Y for Z](public/X%20is%20Y%20for%20Z.md)
 
 Describing a positive thing as a negative thing
 
@@ -55,7 +55,7 @@ Reframing a cake as a candle holder. This conceptual joke could be in a differen
 > A cake is an edible candle holder.
 
 This first is funnier because the listener is first primed with the context of candle holders, 
-The [Circle of expectations](Circle%20of%20expectations.md) includes: candelabra, but not "cake"
+The [Circle of expectations](public/Circle%20of%20expectations.md) includes: candelabra, but not "cake"
 the context then shifts to cake as an example of a candle holder. 
 
 Impact is greatest when the two concepts are cognitively distant and the association is congruent.
@@ -95,4 +95,4 @@ Mashup
 
 
 
-TODO: Mine my old [Creativity](Creativity.md) notes.
+TODO: Mine my old [Creativity](public/Creativity.md) notes.

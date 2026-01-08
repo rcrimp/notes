@@ -20,6 +20,6 @@ I’ve done 2 of those. You’ve been married? No.
 
 > Someone wished me a happy easter. I’m Jewish. I don’t beleive in …  happiness
 
-[Referential Ambiguity](Referential%20Ambiguity.md)
-[Prepositional Ambiguity](Prepositional%20Ambiguity.md)
+[Referential Ambiguity](public/Referential%20Ambiguity.md)
+[Prepositional Ambiguity](public/Prepositional%20Ambiguity.md)
 

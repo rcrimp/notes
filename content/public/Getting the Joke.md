@@ -14,10 +14,10 @@ Jerry Seinfeld “The Gap”
 
 “If I cut of 9 of my fingers, I wouldn’t type any slower” - Mitch Hedberg
 
-Content which is suggest but not literally expressed [Implicature](Implicature.md)
-Content which is required [Entailment](Entailment.md)
-[Presupposition](Presupposition.md)
-[Loaded Questions](Loaded%20Questions.md)
+Content which is suggest but not literally expressed [Implicature](public/Implicature.md)
+Content which is required [[Entailment]]
+[Presupposition](public/Presupposition.md)
+[Loaded Questions](public/Loaded%20Questions.md)
 
 Corrective Judgement
 Reality   → 	Exaggeration		→	“Reality is not that severe”

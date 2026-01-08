@@ -25,17 +25,17 @@ title: Schadenfreude
 
 ## Aspects
 1.  Schadenfreude is a spectator sport
-	1.  Misfortune is not inflicted by us personally (not sadism) [distancing](distancing.md) 
-2.  Exposes our own flaws (envy, inadequacy, low self esteem) [self deprecation](self%20deprecation.md)
-3.  Minor inconvenience more enjoyable than severe trauma [Benign Violation theory](Benign%20Violation%20theory.md)
-4.  More enjoyable if target has higher perceived status [punching up](punching%20up.md) [Joke Target](Joke%20Target.md)
+	1.  Misfortune is not inflicted by us personally (not sadism) [distancing](public/distancing.md) 
+2.  Exposes our own flaws (envy, inadequacy, low self esteem) [self deprecation](public/self%20deprecation.md)
+3.  Minor inconvenience more enjoyable than severe trauma [Benign Violation theory](public/Benign%20Violation%20theory.md)
+4.  More enjoyable if target has higher perceived status [punching up](public/punching%20up.md) [Joke Target](public/Joke%20Target.md)
 	1.  Misfortunes of Trump are enjoyed more than the misfortune of your Grandpa 
 5. More enjoyable if misfortune is deserved (poetic justice, karmic, )
 
 ## Process
 - Transforms distaste for another into delight at their misery.
-- [Joke Target](Joke%20Target.md) is a villain
-	- Rival, enemy, criminal, [hypcrite](Hypocrisy.md)
+- [Joke Target](public/Joke%20Target.md) is a villain
+	- Rival, enemy, criminal, [Hypocrisy](public/Hypocrisy.md)
 - Feelings
 	- dislike, envy, jealousy, hate, fear, spite
 - Event

@@ -5,12 +5,12 @@ title: Improv Theory
 
 - A to C
 - yes And
-- [Circle of expectations](Circle%20of%20expectations.md)
-- [Hedging](Hedging.md)
-- [[Improv 2]]
-- [[UCB Improv]]
-- [[George Fenn clown workshop]]
-- [[Marea Colombi workshop]]
+- [Circle of expectations](public/Circle%20of%20expectations.md)
+- [Hedging](public/Hedging.md)
+- [Improv 2](public/Improv%202.md)
+- [UCB Improv](public/UCB%20Improv.md)
+- [George Fenn clown workshop](public/George%20Fenn%20clown%20workshop.md)
+- [[]]
 
 Hot seat
 Physical movement breakdown

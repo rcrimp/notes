@@ -7,7 +7,7 @@ Jokes Templates
 Stewart Lee’s *ocado* joke in bootleg recording of Content Provider
 > Noun verb noun
 
-[Anti-Proverbs](Anti-Proverbs.md)
+[Anti-Proverbs](public/Anti-Proverbs.md)
 
 ## Snow Clones
 [https://snowclones.org/](https://snowclones.org/)  

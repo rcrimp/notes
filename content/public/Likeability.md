@@ -10,7 +10,7 @@ title: Likeability
 - Self confidence
 - Comfortable in your own skin
 
-[self deprecation](self%20deprecation.md)
+[self deprecation](public/self%20deprecation.md)
 
 ## Truth in Comedy
 > "It's funny because it's true" - Homer Simpson

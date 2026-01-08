@@ -10,11 +10,11 @@ title: Antijoke
 	- anti joke
 	- antijoke
 	- anti-climax
-	- [Stating the Obvious](Stating%20the%20Obvious.md)
+	- [Stating the Obvious](public/Stating%20the%20Obvious.md)
 
 # What is the "Anti Joke"
 - Missclassified Anti jokes
-	- The most famous *"anti-joke"* is [[The Chicken Joke]], which is actually a pun.
+	- The most famous *"anti-joke"* is [The Chicken Joke](public/The%20Chicken%20Joke.md), which is actually a pun.
 	- Sometimes meta-jokes or self-referential jokes are mislabeled as anti-jokes.
 - The conventional understanding of an “Anti-jokes” is an unfunny joke.
 - Anti-jokes can be funny for the same reason any jokes is funny, they’re surprising.
@@ -47,7 +47,7 @@ title: Antijoke
 	- Not getting divorced is implicitly entailed by the expectation.
 
 # Tautology
-- Some anti jokes are [Tautology](Tautology.md)
+- Some anti jokes are [Tautology](public/Tautology.md)
 	- The tautology is the most logically rigorous way to construct an antijoke.
 	- Which is a statement that is true by necessity of its logical form.
 	- Essentially say the same thing twice.
@@ -166,4 +166,4 @@ Much like how the pursuit for meaning in our lives ends when our lives end.
 
 > Die, my dear? Why that's the last thing I'll do! - Groucho Marx
 
-[Antijoke study and examples](Antijoke%20study%20and%20examples.md)
+[Antijoke study and examples](public/Antijoke%20study%20and%20examples.md)

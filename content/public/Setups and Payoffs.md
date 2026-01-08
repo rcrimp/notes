@@ -3,8 +3,8 @@ title: "Setups and Payoffs"
 ---
 - Chekovs gun is the setup
 	- The gun firing is the payoff
-- A kind of [callback](callback.md)
-	- [Story Reincorporation](Story%20Reincorporation.md)
+- A kind of [callback](public/callback.md)
+	- [Story Reincorporation](public/Story%20Reincorporation.md)
 
 ## How To
 First draft write payoffs  

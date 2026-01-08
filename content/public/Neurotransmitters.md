@@ -40,7 +40,7 @@ title: Neurotransmitters
 - The force is ensuring their safety, but it comes at the expense of her freedom.
 - You desire for their safety, and your inability to trust her
 
-Abusive relationships are often blamed on learned behaviours and social norms, which is true, but it falls prey to the [fallacy of the single cause](fallacy%20of%20the%20single%20cause.md). Socially dysfunctional behaviour can be learned from your parents at a young age, as is more appropriate behavior. 
+Abusive relationships are often blamed on learned behaviours and social norms, which is true, but it falls prey to the [fallacy of the single cause](public/fallacy%20of%20the%20single%20cause.md). Socially dysfunctional behaviour can be learned from your parents at a young age, as is more appropriate behavior. 
 
 - Racism is a learned behavior, but aggression towards strangers is unlearned.
 

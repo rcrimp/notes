@@ -5,7 +5,7 @@ title: Observational
 - Types
 	- Satirize frustrating experiences
 		- devalue the infurating
-	- [Defamiliarize](Defamiliarization.md) familar concepts.
+	- [Defamiliarization](public/Defamiliarization.md) familar concepts.
 		- Identify the absurd in the mundane
 
 ## Relatability

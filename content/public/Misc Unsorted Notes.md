@@ -4,25 +4,25 @@ tag: section
 ---
 
 ### Other Comedy Concepts
-1. [Taboo](Taboo.md) - sociolinguistics
-2. [Irony](Irony.md) - relates to conflict?
-3. [Surreal](Surreal.md)
-4. [Observational](Observational.md)
-5. [Other Comedian Jokes](Other%20Comedian%20Jokes.md)
-6. [The Unconscious Comedian Psychee](The%20Unconscious%20Comedian%20Psychee.md)
+1. [Taboo](public/Taboo.md) - sociolinguistics
+2. [Irony](public/Irony.md) - relates to conflict?
+3. [Surreal](public/Surreal.md)
+4. [Observational](public/Observational.md)
+5. [[Other Comedian Jokes]]
+6. [The Unconscious Comedian Psychee](public/The%20Unconscious%20Comedian%20Psychee.md)
 7. Cultural differences
-	1. [Eastern Humor](Eastern%20Humor.md)
-	2. [Jewish Humor](Jewish%20Humor.md)
+	1. [Eastern Humor](public/Eastern%20Humor.md)
+	2. [Jewish Humor](public/Jewish%20Humor.md)
 	3. British vs American
-8. [Anti-ambition](Anti-ambition.md)
-[misdirection and forced reinterpretation](misdirection%20and%20forced%20reinterpretation.md)
+8. [Anti-ambition](public/Anti-ambition.md)
+[misdirection and forced reinterpretation](public/misdirection%20and%20forced%20reinterpretation.md)
 10. Investigate the relationship/difference between:
 	1. double sense
 	2. implication
-	3. [Double Sense Investigation](Double%20Sense%20Investigation.md)
+	3. [Double Sense Investigation](public/Double%20Sense%20Investigation.md)
 
 ## More...
-1. [Comedy Studies new ideas](Comedy%20Studies%20new%20ideas.md)
+1. [Comedy Studies new ideas](public/Comedy%20Studies%20new%20ideas.md)
 
 ## Integrate Thesis Notes
 1. already moved the Philosophy of Comedy appendix

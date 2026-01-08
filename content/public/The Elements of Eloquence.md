@@ -43,4 +43,4 @@ title: The Elements of Eloquence
 
 
 
-[Elements of Eloquence - excerpts](Elements%20of%20Eloquence%20-%20excerpts.md)
+[Elements of Eloquence - excerpts](public/Elements%20of%20Eloquence%20-%20excerpts.md)

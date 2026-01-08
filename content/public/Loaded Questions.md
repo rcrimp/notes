@@ -2,7 +2,7 @@
 title: Loaded Questions
 ---
 # Loaded Questions
-Very weak [Implicature](Implicature.md) by way of a [Presupposition](Presupposition.md) in a question
+Very weak [Implicature](public/Implicature.md) by way of a [Presupposition](public/Presupposition.md) in a question
 
 > Why do you hate Jesus?
 

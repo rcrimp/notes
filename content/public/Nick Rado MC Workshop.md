@@ -266,7 +266,7 @@ Heckler put downs are usually insult roasts or condescension.
 
 You can use classic put downs first:
 
-[Heckler Put Downs](Heckler%20Put%20Downs.md)
+[Heckler Put Downs](public/Heckler%20Put%20Downs.md)
 
 	Giving sailors blowjobs, etc..
 

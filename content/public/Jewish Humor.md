@@ -22,4 +22,4 @@ stereotype archetype
 	- depressed, bipolar, and confused
 - Andy Kindler  
 	- parody act
-- [Lenny Bruce](Lenny%20Bruce.md)
+- [Lenny Bruce](public/Lenny%20Bruce.md)

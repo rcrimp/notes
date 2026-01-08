@@ -7,7 +7,7 @@ What's the difference between
 
 trope and scheme
 
-[The Elements of Eloquence](The%20Elements%20of%20Eloquence.md)
+[The Elements of Eloquence](public/The%20Elements%20of%20Eloquence.md)
 https://www.google.co.nz/books/edition/A_Glossary_of_Rhetorical_Terms/0WRhDwAAQBAJ?hl=en&gbpv=0
 https://www.google.co.nz/books/edition/Of_Wit_N_Humour/yrNcCgAAQBAJ?hl=en&gbpv=0
 - Arthur Asa Berger's Typology
@@ -18,9 +18,9 @@ https://www.google.co.nz/books/edition/Of_Wit_N_Humour/yrNcCgAAQBAJ?hl=en&gbpv=0
 Intended deviation from ordinary usage.
 An intended deviation from ordinary grammatical usage is the specific figure of speech.
 
-[syllepsis](syllepsis.md)
-[Rhetorical Repetition](Rhetorical%20Repetition.md)
-[Antithesis](Antithesis.md)
+[syllepsis](public/syllepsis.md)
+[Rhetorical Repetition](public/Rhetorical%20Repetition.md)
+[Antithesis](public/Antithesis.md)
 
 ## 1 To And or Not to And
 asyndeton - omission of a conjunction

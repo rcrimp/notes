@@ -7,12 +7,12 @@ title: Joke Target
 
 | Tone     | Target self | Target other |
 | :------- | :---------- | :------------ | 
-| Negative | [self deprecation](self%20deprecation.md)| [Aggresion](Aggresion.md) |
+| Negative | [self deprecation](public/self%20deprecation.md)| [Aggresion](public/Aggresion.md) |
 | Neutral  | ? | ? |
-| Positive | self enhancing | [Affiliative](Affiliative.md) |
+| Positive | self enhancing | [[Affiliative]] |
 
 ## Punching Up
-[punching up](punching%20up.md)
+[punching up](public/punching%20up.md)
 
 ## Shift target
-[distancing](distancing.md)
+[distancing](public/distancing.md)

@@ -10,4 +10,4 @@ antifragile
 mansplain
 misgender
 
-[Metaphorisation](Metaphorisation.md)
+[Metaphorisation](public/Metaphorisation.md)

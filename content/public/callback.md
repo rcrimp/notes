@@ -3,6 +3,6 @@ Callback
 	- becomes an inside jokes
 		- running jokes
 		- friendships are strengthened 
-	- an *"internal [Allusion](Allusion.md)"*
-	- it's unexpected, [Surprise Theory](Surprise%20Theory.md)
+	- an *"internal [Allusion](public/Allusion.md)"*
+	- it's unexpected, [Surprise Theory](public/Surprise%20Theory.md)
 	- 

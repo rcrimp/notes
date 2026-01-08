@@ -81,12 +81,12 @@ So I rank those at the top, the most shallow
 	1. Forced Reinterpretation 
 	2. Inference e.g. euphemism, innuendo...
 2. Emotional - Transgressive
-3. Conceptual - Violation of a conceptual system e.g. [Reframing](Reframing.md)
+3. Conceptual - Violation of a conceptual system e.g. [Reframing](public/Reframing.md)
 5. Logical - Violation of logic, unresolved incongruity
 6. Narrative
 	1. Movies with a twist ending (M. Night Shyamalan)
 	2. similar to Forced Reinterpretation
-	3. similar to conceptual [Reframing](Reframing.md)
+	3. similar to conceptual [Reframing](public/Reframing.md)
 
 ### Inference
 Correctly inferring the jokes implicature.

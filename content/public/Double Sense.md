@@ -24,6 +24,6 @@ Word similarity isn't enough, you need:
 Celebrities posed naked with sea creatures for charity Charlie Sheen brought his own crabs
 
 ## Double Entendre
-Sexual double meaning, usually also a sexual [Innuendo](Innuendo.md)
+Sexual double meaning, usually also a sexual [Innuendo](public/Innuendo.md)
 
-[Euphemism](Euphemism.md)
+[Euphemism](public/Euphemism.md)

@@ -4,13 +4,13 @@ title: Rhetorical Repetition
 - Poetic Repetition
 	- There There
 
-[Antanaclasis](Antanaclasis.md)
+[Antanaclasis](public/Antanaclasis.md)
 polyptoton
 ploce
 
 repetitio
 epizeuxis - immediate repetition Yes, Yes, Yes!
-[Diacope](Diacope.md)
+[Diacope](public/Diacope.md)
 
 ## 8 Repetition Again
 anaphora - Repeating the start "Mad world! Mad Kings! Mad composition!"

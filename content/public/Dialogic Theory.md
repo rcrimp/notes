@@ -23,7 +23,7 @@ Laughter
 Clapping
 Cheering
 Silence - An engaged audience with listen attentively, through the silence.
-Heckles [Heckler Put Downs](Heckler%20Put%20Downs.md)
+Heckles [Heckler Put Downs](public/Heckler%20Put%20Downs.md)
 
 ## Rhetorical Question
 Some rhetorical questions require no answer. 

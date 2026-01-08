@@ -11,7 +11,7 @@ title: Allusion
 - External allusion
 	- contemporary culture, historical culture...
 - Internal allusion
-	- referring to a previous joke, a [Callback](Allusion.md)
+	- referring to a previous joke, a [Allusion](public/Allusion.md) / callback
 
 You're as hairy as Chewbacca
 

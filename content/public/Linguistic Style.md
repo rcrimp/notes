@@ -25,7 +25,7 @@ Without style, poetry becomes unimpressive observations, such as
 > life is lonely
 > time passes
 
-But with style, the words can achieve foregrounding, [Defamiliarization](Defamiliarization.md), profoundness, new perspectives, etc. this is the point of poetry (Widdowson 1992)
+But with style, the words can achieve foregrounding, [Defamiliarization](public/Defamiliarization.md), profoundness, new perspectives, etc. this is the point of poetry (Widdowson 1992)
 
 > Like as the waves make towards the pebbled shore,
 > So do our minutes hasten to their end ...

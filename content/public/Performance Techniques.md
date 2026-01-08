@@ -7,9 +7,9 @@ tag: section
 
 - The delivery of a joke essential.
 - Many standup routines are **NOT** funny when read from a script
-	- [Lenny Bruce](Lenny%20Bruce.md) pleaded in court that the transcript of his routines robs it of context
+	- [Lenny Bruce](public/Lenny%20Bruce.md) pleaded in court that the transcript of his routines robs it of context
 	- robbed of the *performance*
-- [Prosody and Rhythm](Prosody%20and%20Rhythm.md)
+- [Prosody and Rhythm](public/Prosody%20and%20Rhythm.md)
 - Steven Wright
 	- Patrice O'Neal is confused why a Steven Wright joke spoken by anyone else isn't funny
 - Maria Bamford - has a meta joke on stage about her jokes are reliant on delivery
@@ -29,14 +29,14 @@ tag: section
 3. Manuscript - word for word
 
 ## Other
-- [Likeability](Likeability.md)
-- [Comedic Voice](Comedic%20Voice.md)
-- [Act Out](Act%20Out.md)
-- [Circle of expectations](Circle%20of%20expectations.md)
-- [Improv Theory](Improv%20Theory.md)
-- [Hedging](Hedging.md)
-- [Building Tension](Building%20Tension.md)
-- [Dialogic Theory](Dialogic%20Theory.md)
+- [Likeability](public/Likeability.md)
+- [Comedic Voice](public/Comedic%20Voice.md)
+- [Act Out](public/Act%20Out.md)
+- [Circle of expectations](public/Circle%20of%20expectations.md)
+- [Improv Theory](public/Improv%20Theory.md)
+- [Hedging](public/Hedging.md)
+- [Building Tension](public/Building%20Tension.md)
+- [Dialogic Theory](public/Dialogic%20Theory.md)
 
 - Confidence
 - Body Language
@@ -52,21 +52,21 @@ Watch a comedian in a foreign language
 Watch how they communicate emotion…
 
 ## Deadpan 
-deadpan analysis [Accidentally funny preacher](Accidentally%20funny%20preacher.md) 
+deadpan analysis [Accidentally funny preacher](public/Accidentally%20funny%20preacher.md) 
 
 ## Clowning
 Mugging
-[Mimicry](Mimicry.md)
+[Mimicry](public/Mimicry.md)
 Corpsing
 
 ## Attitude
-[Tony Allen Attitude](Tony%20Allen%20Attitude.md)
-Care vs [Aggresion](Aggresion.md)
-[self deprecation](self%20deprecation.md) vs [Affiliative](Affiliative.md)
+[Tony Allen Attitude](public/Tony%20Allen%20Attitude.md)
+Care vs [Aggresion](public/Aggresion.md)
+[self deprecation](public/self%20deprecation.md) vs [[Affiliative]]
 condescension roast jokes
-[Sarcasm](Sarcasm.md)
+[Sarcasm](public/Sarcasm.md)
 
-[Playing Dumb](Playing%20Dumb.md)
+[Playing Dumb](public/Playing%20Dumb.md)
 
 
 

@@ -2,14 +2,14 @@
 title: Parallelism
 ---
 - integrate
-- [Antithesis](Antithesis.md)
-- [Paradox](Paradox.md)
-- [Reversal Inversion Transposition](Reversal%20Inversion%20Transposition.md)
-- [Chiasmus](Chiasmus.md)
-- [Paradox Antithesis](Paradox%20Antithesis.md)
-- [Rhetorical Repetition](Rhetorical%20Repetition.md)
+- [Antithesis](public/Antithesis.md)
+- [Paradox](public/Paradox.md)
+- [Reversal Inversion Transposition](public/Reversal%20Inversion%20Transposition.md)
+- [Chiasmus](public/Chiasmus.md)
+- [Paradox Antithesis](public/Paradox%20Antithesis.md)
+- [Rhetorical Repetition](public/Rhetorical%20Repetition.md)
 - Parallel rhythmic structure
-	- [Prosody and Rhythm](Prosody%20and%20Rhythm.md)
+	- [Prosody and Rhythm](public/Prosody%20and%20Rhythm.md)
 
 Correlative structure
 
@@ -56,7 +56,7 @@ sting like a bee
 > I have more pubic hair, than you have actual hair
 
 ## Tricolon
-[Rule of 3](Rule%20of%203.md)
+[Rule of 3](public/Rule%20of%203.md)
 The rule of 3 can be described as a kind of parallelism. The first two repetitions have minimal variants, the third having the most.**
 
 ## poetic foregrounding

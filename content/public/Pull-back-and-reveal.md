@@ -9,7 +9,7 @@ Not misleading. Listener will still make assumptions
 Break the audiences assumptions
 falsify an implicature or presupposition
 
-Breach the maxim of quantity [Cooperative Principle](Cooperative%20Principle.md)
+Breach the maxim of quantity [Cooperative Principle](public/Cooperative%20Principle.md)
 
 Ed Byrne "lead away"
 https://www.youtube.com/watch?v=PeP0Omvvmjs

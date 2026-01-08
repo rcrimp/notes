@@ -3,15 +3,15 @@ title: "Story Reincorporation"
 ---
 
 - reintroduce story elements
-	- a [callback](callback.md) is [surprising](Surprise%20Theory.md)
+	- a [callback](public/callback.md) is [Surprise Theory](public/Surprise%20Theory.md)
 	- 
 	- cohesion, closure, completion, full circle, 
-	- [Ending a Story](Ending%20a%20Story.md)
-	- [Story Obvious End](Story%20Obvious%20End.md)
+	- [Ending a Story](public/Ending%20a%20Story.md)
+	- [Story Obvious End](public/Story%20Obvious%20End.md)
 
 ## Cohesion
 - connections across the story.
-- [callback](callback.md)
+- [callback](public/callback.md)
 - Foreshadowing.
 - Reprise (repeating the chorus, the theme)
 	- Circle Back.
@@ -20,13 +20,13 @@ title: "Story Reincorporation"
 - Where does the previous part fit into the larger picture? 
 
 - Interweaving stories
-	- [Setups and Payoffs](Setups%20and%20Payoffs.md)
+	- [Setups and Payoffs](public/Setups%20and%20Payoffs.md)
 
 - End your story where it began
 	- echoing a refrain from the lead
-		- [Opening Hook](Opening%20Hook.md)
-		- [Setups and Payoffs](Setups%20and%20Payoffs.md)
-		- [Story Arc](Story%20Arc.md)
+		- [Opening Hook](public/Opening%20Hook.md)
+		- [Setups and Payoffs](public/Setups%20and%20Payoffs.md)
+		- [Story Arc](public/Story%20Arc.md)
 	- closure, resolution
 	- poetic
 	- choose a refrain that captures the essence of the story, the theme
@@ -37,7 +37,7 @@ title: "Story Reincorporation"
 
 - Reincorporation
 	- weak: callbacks / back shadowing
-	- [Setups and Payoffs](Setups%20and%20Payoffs.md)
+	- [Setups and Payoffs](public/Setups%20and%20Payoffs.md)
 	- strong: recontextualization / reinterpretation
 	- Dénouement
 		- french for "untie a knot" -> 

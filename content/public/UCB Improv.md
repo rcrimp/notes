@@ -20,7 +20,7 @@ title: "Ucb Improv"
 - Yes-And
 	- explore base reality, additional details
 - FUT First Unusual Thing
-	- [[Foregrounding]] against base-reality
+	- [Foregrounding](public/Foregrounding.md) against base-reality
 - If-Then - game moves, repeat unusual thing into a pattern
 - Framing - identify FUT, exclamation, question, honest reaction, etc. 1st game move
 - Scenes Types
@@ -34,7 +34,7 @@ title: "Ucb Improv"
 	- grounded reaction
 	- Filters - reactions filtered through character/environment
 	- status - 
-	- [[character motivation for improv]]
+	- [character motivation for improv](public/character%20motivation%20for%20improv.md)
 - initiation
 	- first line of a scene
 	- start the scene, in the middle of things
@@ -54,9 +54,9 @@ title: "Ucb Improv"
 - commenting - ironic detachment
 
 # Tips and Rules
-- [[dont talk about it]]
-- [[dont follow plot]]
-- [[establish game before heightening]]
+- [dont talk about it](public/dont%20talk%20about%20it.md)
+- [dont follow plot](public/dont%20follow%20plot.md)
+- [establish game before heightening](public/establish%20game%20before%20heightening.md)
 - dont narrate what you're doing
 - dont resort to your bag of tricks
-- [[don't talk about the thing]]
+- [don't talk about the thing](public/don't%20talk%20about%20the%20thing.md)

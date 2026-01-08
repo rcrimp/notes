@@ -2,7 +2,7 @@
 title: How to Take Smart Notes
 ---
 # How to Take Smart Notes
-1. [Writing is Thinking](Writing%20is%20Thinking.md)
+1. [Writing is Thinking](public/Writing%20is%20Thinking.md)
 2. Value of an external system
 3. Emergent ideas
 
@@ -71,4 +71,4 @@ do not need to brainstorm, just look in the slipbox for gaps, or existing connec
 
 project notes
 
-[Meno’s Paradox](Meno’s%20Paradox.md)
+[Meno’s Paradox](public/Meno’s%20Paradox.md)

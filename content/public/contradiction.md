@@ -49,7 +49,7 @@ title: contradiction
 - Mrs Long is a selfish hypocritical woman and I have no opinion of her
 
 - Great example of consecutive contradictions
-	- [One Fine Day](One%20Fine%20Day.md)
+	- [One Fine Day](public/One%20Fine%20Day.md)
 
 ## Standup Comedy
 - Steven Wright I still have a pony

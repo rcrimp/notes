@@ -2,7 +2,7 @@
 title: Writing is Thinking
 ---
 # Writing is Thinking
-Much like [rubber duck debugging](rubber%20duck%20debugging.md).
+Much like rubber duck debugging
 Writing in full forces you to linearise the idea(s). This helps find gaps and connections.
 
-[Thoughts are illusions](Thoughts%20are%20illusions.md)
+[Thoughts are illusions](public/Thoughts%20are%20illusions.md)

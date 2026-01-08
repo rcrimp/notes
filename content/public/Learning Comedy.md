@@ -24,10 +24,10 @@ Is it even possible to *learn* how to be funny? Are great comedians born or are 
 		- learning 2nd hand from the experience of others
 
 ## Study What?
-- [Humour Studies](Humor%20Theories.md) is a real academic disipline
+- [Humor Theories](public/Humor%20Theories.md) is a real academic disipline
 	- Academics often study *"street jokes"*
 	- Aspiring comedians often study their favourite comedians.
 
 ## Studying Jokes
 - Explaining a joke isn't funny, but it can be educational
-	- Dissecting jokes - [Killing the frog](Killing%20the%20frog.md)
+	- Dissecting jokes - [Killing the frog](public/Killing%20the%20frog.md)

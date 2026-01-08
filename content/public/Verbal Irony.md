@@ -3,7 +3,7 @@ title: Verbal Irony
 ---
 - Stating the opposite (contrary) of what you mean.
 - Listener infers what you really mean
-- Sometimes said with a [sarcastic](Sarcasm.md) tone
+- Sometimes said with a [Sarcasm](public/Sarcasm.md) tone
 	- not alwasy sarcastic
 	- e.g. ironic nicknames are not said with sarcasm
 
@@ -19,7 +19,7 @@ Getting the joke requires the listener to transform the explicit into the implic
 	- truthful
 
 ### Academic Theory
-- Gricean [Cooperative Principle](Cooperative%20Principle.md)
+- Gricean [Cooperative Principle](public/Cooperative%20Principle.md)
 	- breaching the maxim of Quality
 - two-stage process of understanding
 	1. Cancelling the indirect negated message

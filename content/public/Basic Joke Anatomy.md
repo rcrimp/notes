@@ -9,7 +9,7 @@ title: Basic Joke Anatomy
 	- establish an expectation
 - Punch
 	- subvert the expectation
-	- [Misdirection](Misdirection.md)
-- [Tags](public/Tags.md)
+	- [Misdirection](public/Misdirection.md)
+- [[public/Tags]]
 	- extra punchline
-- [callback](callback.md)
+- [callback](public/callback.md)
