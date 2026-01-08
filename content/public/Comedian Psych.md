@@ -1,3 +1,7 @@
+---
+title: "Comedian Psych"
+---
+
 - Humor Styles
 - Affiliative humor promotes social bonds and puts others at ease through telling jokes, saying funny things, and not taking oneself too seriously. 
 - Self-enhancing humor is the ability to see the funny side of life even in adverse and stressful times, and to use humor as a coping mechanism. 

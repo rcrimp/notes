@@ -1,3 +1,7 @@
+---
+title: "Natural Delivery"
+---
+
 - NY bus late
 	- https://www.youtube.com/watch?v=VyeA9Ackiik
 - cotton picking field trip

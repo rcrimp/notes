@@ -1,3 +1,7 @@
+---
+title: "🚩 Start"
+---
+
 - flashcards
 	- [[_flashcard load]]
 	- [[_flashcard TODO]]

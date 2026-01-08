@@ -1,3 +1,7 @@
+---
+title: "Economics Jokes"
+---
+
 - Beavis and Buthead
 	- Candy Sale
 	- exchanging the same dollar to purchase dozens of candy bars from eachother

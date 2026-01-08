@@ -1,3 +1,7 @@
+---
+title: "Duality"
+---
+
 - Academic paper about rhetorical paradoxes
 	- An expert's guide to rhetorical paradox for beginners. 
 	- in contemporary standup comedy

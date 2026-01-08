@@ -1,3 +1,7 @@
+---
+title: "Anecdote Vs Story"
+---
+
 - Both are events that happened
 	- The point of an anecdote is the **ending**
 	- The point of a story is the **journey**

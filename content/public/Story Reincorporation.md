@@ -1,3 +1,7 @@
+---
+title: "Story Reincorporation"
+---
+
 - reintroduce story elements
 	- a [callback](callback.md) is [surprising](Surprise%20Theory.md)
 	- 

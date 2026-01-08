@@ -1,3 +1,7 @@
+---
+title: "Christopher Titus"
+---
+
 - https://www.youtube.com/watch?v=-G4wA8PM0Io&t=2247s
 - I've listened to Seinfeld, Carlin
 - anecdotes are:

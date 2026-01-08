@@ -1,3 +1,7 @@
+---
+title: "Bert Kreischer"
+---
+
 - https://www.youtube.com/watch?v=h3PA-re8GeI
 - NEEDS beginning, middle, end
 - arc

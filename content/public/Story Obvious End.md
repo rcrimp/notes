@@ -1,3 +1,7 @@
+---
+title: "Story Obvious End"
+---
+
 - Every story **needs** an obvious end
 	-  you WILL get applause if people know its over
 - people need to know when story is over - Bert Kreischer

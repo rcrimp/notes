@@ -1,3 +1,7 @@
+---
+title: "Satire Structure Reducto Absurdism"
+---
+
 - 2 comedy routines that state a premise, and by affirming the premise to an extreme show the absurdity of the premise.
 - leading to a contradiction.
 ## Stewart Lee
